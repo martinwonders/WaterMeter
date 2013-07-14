@@ -1,0 +1,47 @@
+<events>
+  <event>
+    <location>unk</location>
+    <start>12:8:28</start>
+    <volume>12853</volume>
+    <samples>63,63,66,63,98,185,182,185,185,182,188,179,133,133,133,130,133,133,133,133,133,133,133,133,130,133,133,130,133,174,174,174,176,174,174,174,176,174,176,176,174,150,133,130,133,130,130,130,130,130,130,130,130,130,92,75,133,133,208,240,240,243,243,240,243,243,243,246,243,243,243,246,162,133,133,133,133,136,133,133,133,113,11</samples>
+    <knn>unk</knn>
+    <svm>unk</svm>
+    <truth>Shower + Toilet(ensuite)</truth>
+  </event>
+  <event>
+    <location>unk</location>
+    <start>12:10:19</start>
+    <volume>2253</volume>
+    <samples>118,130,133,130,133,133,130,133,130,133,130,133,133,130,133,130,130,29,2</samples>
+    <knn>unk</knn>
+    <svm>unk</svm>
+    <truth>Shower + Toilet(ensuite)</truth>
+  </event>
+  <event>
+    <location>unk</location>
+    <start>12:13:36</start>
+    <volume>9050</volume>
+    <samples>139,136,139,139,136,136,139,133,139,133,136,136,139,139,136,136,136,133,133,133,130,133,130,130,130,127,127,130,127,127,127,127,130,127,130,127,130,127,127,130,127,127,130,124,127,127,124,124,127,127,127,127,127,127,127,127,127,127,127,127,127,127,124,127,124,124,127,127,124,81,5</samples>
+    <knn>unk</knn>
+    <svm>unk</svm>
+    <truth>Shower + Toilet(ensuite)</truth>
+  </event>
+  <event>
+    <location>unk</location>
+    <start>12:14:41</start>
+    <volume>4647</volume>
+    <samples>136,133,130,133,133,133,130,133,130,130,127,130,130,127,130,127,127,130,127,130,127,130,127,130,127,130,127,127,127,127,124,127,127,127,127,116,14</samples>
+    <knn>unk</knn>
+    <svm>unk</svm>
+    <truth>Shower + Toilet(ensuite)</truth>
+  </event>
+  <event>
+    <location>unk</location>
+    <start>17:7:47</start>
+    <volume>2417</volume>
+    <samples>118,116,121,147,150,150,150,150,150,150,150,150,113,40,40,37,40,40,40,40,40,40,40,40,40,40,40,37,8</samples>
+    <knn>unk</knn>
+    <svm>unk</svm>
+    <truth>Toilet + Wash basin(ensuite)</truth>
+  </event>
+</events>

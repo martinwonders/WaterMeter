@@ -1,0 +1,101 @@
+<events>
+  <event>
+    <location>ensuite</location>
+    <start>20:36:38</start>
+    <volume>665</volume>
+    <samples>136,142,145,142,95,5</samples>
+    <knn>Wash basin</knn>
+    <svm>Wash basin</svm>
+    <truth>Wash basin</truth>
+  </event>
+  <event>
+    <location>ensuite</location>
+    <start>22:5:3</start>
+    <volume>108042</volume>
+    <samples>217,243,234,234,234,234,243,243,246,246,246,269,319,321,324,324,324,327,327,327,327,330,330,327,327,330,330,330,330,327,330,333,333,333,336,333,336,333,333,336,336,336,336,333,336,319,278,266,266,266,266,266,266,266,287,307,304,304,263,263,263,263,263,263,263,261,261,261,261,261,261,261,249,249,249,249,249,249,252,252,252,258,258,252,258,258,255,258,255,252,255,258,255,255,255,258,252,255,200,14</samples>
+    <knn>Shower + Toilet</knn>
+    <svm>Shower + Toilet</svm>
+    <truth>Shower + Toilet</truth>
+  </event>
+  <event>
+    <location>ensuite</location>
+    <start>22:5:25</start>
+    <volume>2052</volume>
+    <samples>118,118,116,118,118,118,118,118,124,133,136,133,136,133,133,127,31,11,11,2</samples>
+    <knn>Wash basin</knn>
+    <svm>Wash basin</svm>
+    <truth>Wash basin</truth>
+  </event>
+  <event>
+    <location>ensuite</location>
+    <start>22:7:48</start>
+    <volume>422</volume>
+    <samples>174,174,69,5</samples>
+    <knn>Wash basin</knn>
+    <svm>Wash basin</svm>
+    <truth>Wash basin</truth>
+  </event>
+  <event>
+    <location>ensuite</location>
+    <start>22:8:0</start>
+    <volume>337</volume>
+    <samples>136,136,63,2</samples>
+    <knn>Wash basin</knn>
+    <svm>Wash basin</svm>
+    <truth>Wash basin</truth>
+  </event>
+  <event>
+    <location>ensuite</location>
+    <start>22:8:3</start>
+    <volume>40</volume>
+    <samples>40</samples>
+    <knn>Wash basin</knn>
+    <svm>Wash basin</svm>
+    <truth>Wash basin</truth>
+  </event>
+  <event>
+    <location>ensuite</location>
+    <start>22:9:14</start>
+    <volume>805</volume>
+    <samples>75,40,37,34,37,34,37,37,37,37,34,37,37,37,34,37,37,37,37,34,34,5</samples>
+    <knn>Wash basin</knn>
+    <svm>Wash basin</svm>
+    <truth>Wash basin</truth>
+  </event>
+  <event>
+    <location>ensuite</location>
+    <start>22:41:39</start>
+    <volume>293</volume>
+    <samples>121,121,49,2</samples>
+    <knn>Wash basin</knn>
+    <svm>Wash basin</svm>
+    <truth>Wash basin(ensuite)</truth>
+  </event>
+  <event>
+    <location>ensuite</location>
+    <start>22:41:49</start>
+    <volume>215</volume>
+    <samples>89,95,31</samples>
+    <knn>Wash basin</knn>
+    <svm>Wash basin</svm>
+    <truth>Wash basin(ensuite)</truth>
+  </event>
+  <event>
+    <location>ensuite</location>
+    <start>22:42:14</start>
+    <volume>375</volume>
+    <samples>133,142,95,5</samples>
+    <knn>Wash basin</knn>
+    <svm>Wash basin</svm>
+    <truth>Wash basin(ensuite)</truth>
+  </event>
+  <event>
+    <location>ensuite</location>
+    <start>22:42:20</start>
+    <volume>176</volume>
+    <samples>153,23</samples>
+    <knn>Wash basin</knn>
+    <svm>Wash basin</svm>
+    <truth>Wash basin(ensuite)</truth>
+  </event>
+</events>

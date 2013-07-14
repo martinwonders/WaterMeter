@@ -1,0 +1,1296 @@
+nohup: ignoring input
+serial open on 7/4/2013 at 11:41
+reading training data... 
+
+Building SVM model for ensuite.
+SVM model built.
+Building KNN model for ensuite.
+KNN model built.
+Building SVM model for shower_room.
+SVM model built.
+Building KNN model for shower_room.
+KNN model built.
+Building SVM model for kitchen.
+SVM model built.
+Building KNN model for kitchen.
+KNN model built.
+Starting KNX serial thread... 
+
+waiting for water flow... 
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+serial open 
+
+waitng for KNX data... 
+
+Data from ensuite PIR
+1: 118 ->ensuite
+2: 118 ->ensuite
+3: 118 ->ensuite
+4: 60 ->ensuite
+5: 2 ->ensuite
+<event>
+  <location>ensuite</location>
+  <start>11:43:54</start>
+  <volume>416</volume>
+  <samples>118,118,118,60,2</samples>
+  <knn>Wash basin</knn>
+  <svm>Wash basin</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+1: 118 ->ensuite
+2: 121 ->ensuite
+3: 127 ->ensuite
+4: 162 ->ensuite
+5: 159 ->ensuite
+6: 162 ->ensuite
+7: 162 ->ensuite
+Data from ensuite PIR
+8: 165 ->ensuite
+9: 162 ->ensuite
+10: 162 ->ensuite
+Data from ensuite PIR
+11: 159 ->ensuite
+Data from ensuite PIR
+12: 162 ->ensuite
+13: 159 ->ensuite
+14: 162 ->ensuite
+15: 153 ->ensuite
+16: 34 ->ensuite
+17: 2 ->ensuite
+<event>
+  <location>ensuite</location>
+  <start>11:56:41</start>
+  <volume>2331</volume>
+  <samples>118,121,127,162,159,162,162,165,162,162,159,162,159,162,153,34,2</samples>
+  <knn>Wash basin</knn>
+  <svm>Wash basin</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from ensuite PIR
+Data from ensuite PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 20 ->kitchen
+Data from kitchen PIR
+2: 5 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>11:58:39</start>
+  <volume>25</volume>
+  <samples>20,5</samples>
+  <knn>Butler</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 29 ->kitchen
+2: 2 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>11:59:55</start>
+  <volume>31</volume>
+  <samples>29,2</samples>
+  <knn>Butler</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 14 ->kitchen
+2: 58 ->kitchen
+Data from kitchen PIR
+3: 98 ->kitchen
+Data from kitchen PIR
+4: 95 ->kitchen
+5: 43 ->kitchen
+6: 2 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>12:8:56</start>
+  <volume>310</volume>
+  <samples>14,58,98,95,43,2</samples>
+  <knn>Sink</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+1: 78 ->kitchen
+2: 78 ->kitchen
+3: 81 ->kitchen
+4: 78 ->kitchen
+5: 78 ->kitchen
+6: 78 ->kitchen
+7: 78 ->kitchen
+8: 78 ->kitchen
+9: 17 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>12:10:13</start>
+  <volume>644</volume>
+  <samples>78,78,81,78,78,78,78,78,17</samples>
+  <knn>Butler</knn>
+  <svm>Sink</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+1: 43 ->kitchen
+2: 46 ->kitchen
+3: 26 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>12:10:20</start>
+  <volume>115</volume>
+  <samples>43,46,26</samples>
+  <knn>Butler</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+1: 14 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>12:10:27</start>
+  <volume>14</volume>
+  <samples>14</samples>
+  <knn>Butler</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 84 ->kitchen
+2: 84 ->kitchen
+3: 23 ->kitchen
+4: 2 ->kitchen
+5: 14 ->kitchen
+6: 130 ->kitchen
+7: 130 ->kitchen
+8: 133 ->kitchen
+9: 130 ->kitchen
+10: 130 ->kitchen
+11: 133 ->kitchen
+12: 133 ->kitchen
+13: 133 ->kitchen
+14: 133 ->kitchen
+15: 133 ->kitchen
+Data from kitchen PIR
+16: 133 ->kitchen
+17: 133 ->kitchen
+18: 133 ->kitchen
+19: 133 ->kitchen
+20: 133 ->kitchen
+21: 31 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>12:11:4</start>
+  <volume>2221</volume>
+  <samples>84,84,23,2,14,130,130,133,130,130,133,133,133,133,133,133,133,133,133,133,31</samples>
+  <knn>Sink</knn>
+  <svm>Sink</svm>
+  <truth>unk</truth>
+</event>
+
+Data from kitchen PIR
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+1: 121 ->kitchen
+Data from kitchen PIR
+2: 118 ->kitchen
+3: 121 ->kitchen
+4: 89 ->kitchen
+5: 8 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>12:11:42</start>
+  <volume>457</volume>
+  <samples>121,118,121,89,8</samples>
+  <knn>Sink</knn>
+  <svm>Sink</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 63 ->kitchen
+2: 60 ->kitchen
+3: 63 ->kitchen
+4: 63 ->kitchen
+Data from kitchen PIR
+5: 55 ->kitchen
+6: 8 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>12:17:7</start>
+  <volume>312</volume>
+  <samples>63,60,63,63,55,8</samples>
+  <knn>Butler</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 31 ->kitchen
+2: 37 ->kitchen
+3: 34 ->kitchen
+4: 37 ->kitchen
+5: 31 ->kitchen
+Data from kitchen PIR
+6: 5 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>12:19:32</start>
+  <volume>175</volume>
+  <samples>31,37,34,37,31,5</samples>
+  <knn>Butler</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 20 ->kitchen
+2: 37 ->kitchen
+3: 5 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>12:23:45</start>
+  <volume>62</volume>
+  <samples>20,37,5</samples>
+  <knn>Butler</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+1: 14 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>12:23:59</start>
+  <volume>14</volume>
+  <samples>14</samples>
+  <knn>Butler</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 5 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>12:24:17</start>
+  <volume>5</volume>
+  <samples>5</samples>
+  <knn>Butler</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+1: 2 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>12:24:40</start>
+  <volume>2</volume>
+  <samples>2</samples>
+  <knn>Butler</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+1: 89 ->kitchen
+2: 14 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>12:24:51</start>
+  <volume>103</volume>
+  <samples>89,14</samples>
+  <knn>Sink</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+1: 78 ->unk
+2: 84 ->unk
+3: 84 ->unk
+4: 60 ->unk
+5: 2 ->unk
+Unknown source for data=[78, 84, 84, 60, 2]
+
+Data not logged - only logging data for..
+[]
+
+
+1: 23 ->unk
+2: 23 ->unk
+3: 23 ->unk
+4: 11 ->unk
+Unknown source for data=[23, 23, 23, 11]
+
+Data not logged - only logging data for..
+[]
+
+
+1: 23 ->unk
+2: 23 ->unk
+3: 23 ->unk
+4: 23 ->unk
+5: 14 ->unk
+Unknown source for data=[23, 23, 23, 23, 14]
+
+Data not logged - only logging data for..
+[]
+
+
+Data from kitchen PIR
+Data from kitchen PIR
+1: 92 ->kitchen
+2: 37 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>12:28:42</start>
+  <volume>129</volume>
+  <samples>92,37</samples>
+  <knn>Sink</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 130 ->kitchen
+2: 133 ->kitchen
+Data from kitchen PIR
+3: 84 ->kitchen
+4: 5 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>12:42:31</start>
+  <volume>352</volume>
+  <samples>130,133,84,5</samples>
+  <knn>Sink</knn>
+  <svm>Sink</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 101 ->kitchen
+2: 104 ->kitchen
+3: 104 ->kitchen
+4: 43 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>12:49:46</start>
+  <volume>352</volume>
+  <samples>101,104,104,43</samples>
+  <knn>Sink</knn>
+  <svm>Sink</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+1: 95 ->kitchen
+2: 92 ->kitchen
+3: 95 ->kitchen
+4: 92 ->kitchen
+5: 95 ->kitchen
+6: 60 ->kitchen
+7: 5 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>12:50:7</start>
+  <volume>534</volume>
+  <samples>95,92,95,92,95,60,5</samples>
+  <knn>Sink</knn>
+  <svm>Sink</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+1: 63 ->kitchen
+2: 63 ->kitchen
+3: 63 ->kitchen
+4: 60 ->kitchen
+5: 63 ->kitchen
+6: 40 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>12:50:35</start>
+  <volume>352</volume>
+  <samples>63,63,63,60,63,40</samples>
+  <knn>Butler</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 81 ->unk
+2: 87 ->unk
+3: 84 ->unk
+4: 87 ->unk
+5: 84 ->unk
+6: 87 ->unk
+7: 84 ->unk
+8: 87 ->unk
+9: 23 ->unk
+Unknown source for data=[81, 87, 84, 87, 84, 87, 84, 87, 23]
+
+Data not logged - only logging data for..
+[]
+
+
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 142 ->kitchen
+2: 17 ->kitchen
+3: 5 ->kitchen
+4: 46 ->kitchen
+5: 2 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>13:0:47</start>
+  <volume>212</volume>
+  <samples>142,17,5,46,2</samples>
+  <knn>Sink</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+1: 107 ->unk
+2: 37 ->unk
+Unknown source for data=[107, 37]
+
+Data not logged - only logging data for..
+[]
+
+
+Data from kitchen PIR
+Data from kitchen PIR
+1: 118 ->kitchen
+2: 116 ->kitchen
+3: 118 ->kitchen
+4: 118 ->kitchen
+5: 116 ->kitchen
+6: 116 ->kitchen
+7: 118 ->kitchen
+8: 118 ->kitchen
+Data from kitchen PIR
+9: 118 ->kitchen
+10: 118 ->kitchen
+11: 118 ->kitchen
+12: 118 ->kitchen
+13: 121 ->kitchen
+14: 118 ->kitchen
+15: 118 ->kitchen
+16: 118 ->kitchen
+17: 55 ->kitchen
+18: 2 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>13:2:27</start>
+  <volume>1942</volume>
+  <samples>118,116,118,118,116,116,118,118,118,118,118,118,121,118,118,118,55,2</samples>
+  <knn>Sink</knn>
+  <svm>Sink</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+1: 145 ->unk
+2: 142 ->unk
+3: 145 ->unk
+4: 145 ->unk
+5: 145 ->unk
+6: 145 ->unk
+7: 147 ->unk
+8: 145 ->unk
+9: 147 ->unk
+10: 145 ->unk
+11: 147 ->unk
+12: 145 ->unk
+13: 153 ->unk
+14: 153 ->unk
+15: 150 ->unk
+16: 153 ->unk
+17: 150 ->unk
+18: 153 ->unk
+19: 150 ->unk
+20: 153 ->unk
+21: 150 ->unk
+22: 150 ->unk
+23: 153 ->unk
+24: 150 ->unk
+25: 150 ->unk
+Data from shower_room PIR
+26: 150 ->unk
+27: 150 ->unk
+28: 150 ->unk
+Data from shower_room PIR
+29: 150 ->unk
+30: 150 ->unk
+31: 153 ->unk
+Data from shower_room PIR
+32: 150 ->unk
+33: 153 ->unk
+34: 150 ->unk
+35: 153 ->unk
+36: 153 ->unk
+37: 150 ->unk
+38: 156 ->unk
+39: 153 ->unk
+40: 153 ->unk
+41: 153 ->unk
+42: 156 ->unk
+43: 153 ->unk
+44: 150 ->unk
+45: 153 ->unk
+46: 153 ->unk
+47: 153 ->unk
+48: 153 ->unk
+49: 150 ->unk
+50: 153 ->unk
+51: 153 ->unk
+Data from shower_room PIR
+52: 150 ->unk
+53: 153 ->unk
+54: 150 ->unk
+55: 153 ->unk
+56: 150 ->unk
+Data from shower_room PIR
+57: 153 ->unk
+58: 150 ->unk
+59: 153 ->unk
+60: 150 ->unk
+61: 153 ->unk
+62: 150 ->unk
+63: 150 ->unk
+64: 153 ->unk
+65: 150 ->unk
+66: 153 ->unk
+67: 150 ->unk
+68: 153 ->unk
+69: 150 ->unk
+Data from shower_room PIR
+70: 153 ->unk
+Data from shower_room PIR
+71: 150 ->unk
+72: 153 ->unk
+73: 153 ->unk
+74: 150 ->unk
+75: 150 ->unk
+76: 150 ->unk
+77: 150 ->unk
+78: 147 ->unk
+79: 153 ->unk
+80: 147 ->unk
+81: 150 ->unk
+82: 150 ->unk
+83: 150 ->unk
+84: 150 ->unk
+85: 150 ->unk
+86: 153 ->unk
+87: 153 ->unk
+Data from shower_room PIR
+88: 153 ->unk
+89: 150 ->unk
+90: 156 ->unk
+91: 153 ->unk
+92: 150 ->unk
+93: 153 ->unk
+94: 153 ->unk
+95: 153 ->unk
+96: 153 ->unk
+97: 153 ->unk
+98: 150 ->unk
+99: 153 ->unk
+100: 153 ->unk
+101: 150 ->unk
+Data from shower_room PIR
+102: 153 ->unk
+103: 150 ->unk
+104: 156 ->unk
+105: 153 ->unk
+106: 153 ->unk
+107: 153 ->unk
+108: 153 ->unk
+109: 153 ->unk
+110: 153 ->unk
+111: 153 ->unk
+112: 153 ->unk
+113: 153 ->unk
+114: 153 ->unk
+115: 153 ->unk
+116: 153 ->unk
+117: 153 ->unk
+118: 153 ->unk
+119: 153 ->unk
+120: 153 ->unk
+121: 153 ->unk
+122: 153 ->unk
+123: 153 ->unk
+124: 153 ->unk
+125: 153 ->unk
+126: 153 ->unk
+127: 153 ->unk
+128: 153 ->unk
+129: 153 ->unk
+130: 153 ->unk
+131: 156 ->unk
+132: 150 ->unk
+Data from shower_room PIR
+133: 153 ->unk
+134: 153 ->unk
+Data from shower_room PIR
+135: 156 ->unk
+136: 150 ->unk
+137: 153 ->unk
+138: 153 ->unk
+139: 153 ->unk
+140: 153 ->unk
+141: 153 ->unk
+142: 153 ->unk
+143: 153 ->unk
+144: 153 ->unk
+145: 153 ->unk
+146: 153 ->unk
+147: 153 ->unk
+148: 153 ->unk
+149: 150 ->unk
+150: 153 ->unk
+151: 153 ->unk
+152: 150 ->unk
+153: 153 ->unk
+Data from shower_room PIR
+154: 150 ->unk
+155: 153 ->unk
+Data from shower_room PIR
+Data from shower_room PIR
+156: 153 ->unk
+157: 150 ->unk
+158: 153 ->unk
+159: 153 ->unk
+160: 150 ->unk
+161: 153 ->unk
+162: 153 ->unk
+163: 150 ->unk
+164: 153 ->unk
+Data from shower_room PIR
+165: 150 ->unk
+166: 150 ->unk
+167: 153 ->unk
+168: 150 ->unk
+Data from shower_room PIR
+169: 153 ->unk
+170: 153 ->unk
+171: 150 ->unk
+172: 153 ->unk
+173: 150 ->unk
+174: 153 ->unk
+175: 150 ->unk
+176: 153 ->unk
+Data from shower_room PIR
+177: 153 ->unk
+178: 150 ->unk
+179: 153 ->unk
+180: 153 ->unk
+Data from shower_room PIR
+181: 150 ->unk
+182: 150 ->unk
+Data from shower_room PIR
+183: 153 ->unk
+184: 150 ->unk
+185: 153 ->unk
+186: 150 ->unk
+187: 150 ->unk
+188: 153 ->unk
+189: 150 ->unk
+190: 153 ->unk
+191: 153 ->unk
+192: 150 ->unk
+193: 153 ->unk
+194: 150 ->unk
+Data from shower_room PIR
+195: 153 ->unk
+196: 150 ->unk
+197: 153 ->unk
+198: 153 ->unk
+199: 150 ->unk
+200: 153 ->unk
+201: 153 ->unk
+202: 153 ->unk
+203: 153 ->unk
+204: 153 ->unk
+205: 153 ->unk
+206: 153 ->unk
+207: 153 ->unk
+Data from shower_room PIR
+208: 153 ->unk
+209: 156 ->unk
+210: 156 ->unk
+211: 153 ->unk
+Data from shower_room PIR
+212: 156 ->unk
+213: 156 ->unk
+214: 156 ->unk
+215: 153 ->unk
+216: 156 ->unk
+217: 153 ->unk
+218: 156 ->unk
+Data from shower_room PIR
+219: 156 ->unk
+220: 153 ->unk
+221: 156 ->unk
+222: 153 ->unk
+223: 153 ->unk
+224: 156 ->unk
+225: 153 ->unk
+Data from shower_room PIR
+226: 156 ->unk
+227: 153 ->unk
+228: 156 ->unk
+229: 156 ->unk
+230: 153 ->unk
+Data from shower_room PIR
+231: 156 ->unk
+232: 156 ->unk
+233: 156 ->unk
+234: 153 ->unk
+235: 156 ->unk
+236: 153 ->unk
+237: 156 ->unk
+238: 153 ->unk
+239: 156 ->unk
+240: 153 ->unk
+Data from shower_room PIR
+241: 156 ->unk
+242: 150 ->unk
+Data from shower_room PIR
+243: 153 ->unk
+244: 156 ->unk
+245: 153 ->unk
+246: 153 ->unk
+Data from shower_room PIR
+247: 153 ->unk
+248: 153 ->unk
+249: 153 ->unk
+250: 153 ->unk
+251: 153 ->unk
+252: 153 ->unk
+253: 153 ->unk
+254: 153 ->unk
+Data from shower_room PIR
+255: 153 ->unk
+256: 153 ->unk
+257: 150 ->unk
+258: 153 ->unk
+259: 150 ->unk
+260: 153 ->unk
+261: 150 ->unk
+262: 153 ->unk
+263: 153 ->unk
+264: 150 ->unk
+Data from shower_room PIR
+265: 153 ->unk
+Data from shower_room PIR
+266: 150 ->unk
+267: 153 ->unk
+268: 150 ->unk
+269: 150 ->unk
+270: 153 ->unk
+271: 153 ->unk
+272: 150 ->unk
+273: 153 ->unk
+274: 150 ->unk
+275: 153 ->unk
+276: 150 ->unk
+277: 150 ->unk
+278: 153 ->unk
+279: 150 ->unk
+280: 153 ->unk
+281: 150 ->unk
+Data from shower_room PIR
+282: 153 ->unk
+283: 153 ->unk
+284: 150 ->unk
+285: 153 ->unk
+286: 153 ->unk
+287: 153 ->unk
+288: 153 ->unk
+289: 153 ->unk
+Data from shower_room PIR
+290: 153 ->unk
+291: 156 ->unk
+292: 153 ->unk
+293: 153 ->unk
+Data from shower_room PIR
+294: 153 ->unk
+295: 153 ->unk
+Data from shower_room PIR
+296: 153 ->unk
+297: 153 ->unk
+Data from shower_room PIR
+298: 156 ->unk
+299: 153 ->unk
+300: 153 ->unk
+Data from shower_room PIR
+301: 153 ->unk
+302: 156 ->unk
+Data from shower_room PIR
+303: 153 ->unk
+304: 153 ->unk
+305: 156 ->unk
+306: 153 ->unk
+307: 153 ->unk
+308: 156 ->unk
+309: 153 ->unk
+310: 153 ->unk
+311: 150 ->unk
+312: 153 ->unk
+313: 153 ->unk
+Data from shower_room PIR
+314: 150 ->unk
+315: 153 ->unk
+316: 153 ->unk
+317: 150 ->unk
+318: 153 ->unk
+319: 153 ->unk
+320: 153 ->unk
+321: 153 ->unk
+Data from shower_room PIR
+322: 150 ->unk
+323: 153 ->unk
+324: 153 ->unk
+325: 150 ->unk
+326: 153 ->unk
+327: 153 ->unk
+328: 153 ->unk
+329: 150 ->unk
+330: 153 ->unk
+331: 153 ->unk
+Data from shower_room PIR
+332: 153 ->unk
+333: 150 ->unk
+334: 153 ->unk
+335: 153 ->unk
+Data from shower_room PIR
+336: 150 ->unk
+337: 153 ->unk
+Data from shower_room PIR
+338: 153 ->unk
+339: 150 ->unk
+Data from shower_room PIR
+340: 153 ->unk
+341: 150 ->unk
+342: 153 ->unk
+343: 153 ->unk
+344: 150 ->unk
+345: 153 ->unk
+346: 150 ->unk
+347: 153 ->unk
+Data from shower_room PIR
+Data from shower_room PIR
+348: 153 ->unk
+349: 150 ->unk
+350: 153 ->unk
+351: 153 ->unk
+352: 150 ->unk
+353: 153 ->unk
+354: 150 ->unk
+355: 153 ->unk
+356: 153 ->unk
+357: 150 ->unk
+358: 153 ->unk
+359: 153 ->unk
+360: 153 ->unk
+361: 150 ->unk
+362: 153 ->unk
+Data from shower_room PIR
+363: 153 ->unk
+364: 156 ->unk
+365: 153 ->unk
+366: 150 ->unk
+367: 153 ->unk
+368: 153 ->unk
+369: 153 ->unk
+370: 153 ->unk
+371: 153 ->unk
+Data from shower_room PIR
+372: 153 ->unk
+373: 153 ->unk
+374: 153 ->unk
+375: 156 ->unk
+376: 153 ->unk
+377: 153 ->unk
+378: 153 ->unk
+379: 156 ->unk
+380: 153 ->unk
+381: 156 ->unk
+382: 153 ->unk
+Data from shower_room PIR
+383: 153 ->unk
+384: 153 ->unk
+385: 153 ->unk
+386: 153 ->unk
+387: 153 ->unk
+Data from shower_room PIR
+388: 156 ->unk
+389: 153 ->unk
+390: 153 ->unk
+Data from shower_room PIR
+391: 156 ->unk
+392: 153 ->unk
+393: 153 ->unk
+394: 156 ->unk
+395: 153 ->unk
+Data from shower_room PIR
+396: 156 ->unk
+397: 153 ->unk
+398: 153 ->unk
+399: 153 ->unk
+400: 156 ->unk
+401: 153 ->unk
+Data from shower_room PIR
+402: 153 ->unk
+403: 156 ->unk
+404: 153 ->unk
+405: 156 ->unk
+Data from shower_room PIR
+406: 153 ->unk
+407: 156 ->unk
+408: 156 ->unk
+409: 153 ->unk
+410: 156 ->unk
+411: 153 ->unk
+412: 156 ->unk
+413: 153 ->unk
+Data from shower_room PIR
+414: 153 ->unk
+415: 153 ->unk
+416: 156 ->unk
+417: 153 ->unk
+418: 156 ->unk
+419: 153 ->unk
+420: 156 ->unk
+421: 153 ->unk
+422: 156 ->unk
+423: 156 ->unk
+424: 156 ->unk
+425: 153 ->unk
+426: 156 ->unk
+427: 156 ->unk
+428: 156 ->unk
+429: 153 ->unk
+430: 156 ->unk
+Data from shower_room PIR
+431: 156 ->unk
+432: 153 ->unk
+433: 156 ->unk
+434: 156 ->unk
+435: 153 ->unk
+436: 156 ->unk
+437: 153 ->unk
+438: 156 ->unk
+439: 156 ->unk
+Data from shower_room PIR
+440: 153 ->unk
+Data from shower_room PIR
+441: 95 ->unk
+442: 2 ->unk
+Data from shower_room PIR
+Data from shower_room PIR
+Traceback (most recent call last):
+  File "wm1_1.py", line 204, in <module>
+    main()
+  File "wm1_1.py", line 145, in main
+    knn_node.text = classify.classify(resized,knn_model[loc],loc)
+KeyError: 'unk'

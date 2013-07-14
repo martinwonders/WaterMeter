@@ -1,0 +1,29 @@
+<events>
+  <event>
+    <location>unk</location>
+    <start>16:18:45</start>
+    <volume>3948</volume>
+    <samples>133,127,130,130,127,130,130,130,130,130,130,130,130,130,133,130,130,130,130,130,130,130,130,127,130,127,127,130,127,127,63</samples>
+    <knn>unk</knn>
+    <svm>unk</svm>
+    <truth>Toilet + Wash basin(ensuite)</truth>
+  </event>
+  <event>
+    <location>unk</location>
+    <start>18:52:27</start>
+    <volume>12246</volume>
+    <samples>127,127,130,127,130,127,130,130,130,130,127,130,127,130,127,127,127,130,130,130,127,130,130,130,130,130,127,130,127,127,130,127,130,130,127,130,130,127,127,130,124,127,127,130,127,130,130,127,127,130,127,127,127,124,127,127,130,124,130,127,130,127,130,130,127,130,130,147,150,150,153,150,150,150,136,130,130,130,130,130,133,130,130,133,130,130,130,127,130,130,127,130,130,110,8</samples>
+    <knn>unk</knn>
+    <svm>unk</svm>
+    <truth>Toilet + Wash basin(ensuite)</truth>
+  </event>
+  <event>
+    <location>unk</location>
+    <start>22:38:23</start>
+    <volume>2730</volume>
+    <samples>116,116,118,116,116,116,116,124,139,142,139,142,139,142,139,139,142,139,139,60,26,29,29,29,29,29,20</samples>
+    <knn>unk</knn>
+    <svm>unk</svm>
+    <truth>Toilet + Wash basin(ensuite)</truth>
+  </event>
+</events>

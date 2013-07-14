@@ -1,0 +1,4971 @@
+serial open on 7/4/2013 at 19:42
+reading training data... 
+
+Building SVM model for ensuite.
+SVM model built.
+Building KNN model for ensuite.
+KNN model built.
+Building SVM model for shower_room.
+SVM model built.
+Building KNN model for shower_room.
+KNN model built.
+Building SVM model for kitchen.
+SVM model built.
+Building KNN model for kitchen.
+KNN model built.
+Starting KNX serial thread... 
+
+waiting for water flow... 
+
+serial open 
+
+waitng for KNX data... 
+
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 78 ->kitchen
+2: 78 ->kitchen
+3: 75 ->kitchen
+4: 75 ->kitchen
+5: 78 ->kitchen
+6: 78 ->kitchen
+Data from kitchen PIR
+7: 40 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>19:43:26</start>
+  <volume>502</volume>
+  <samples>78,78,75,75,78,78,40</samples>
+  <knn>Butler</knn>
+  <svm>Sink</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 147 ->kitchen
+2: 142 ->kitchen
+3: 23 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>19:53:44</start>
+  <volume>312</volume>
+  <samples>147,142,23</samples>
+  <knn>Sink</knn>
+  <svm>Sink</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 139 ->kitchen
+2: 139 ->kitchen
+3: 58 ->kitchen
+4: 2 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>19:57:19</start>
+  <volume>338</volume>
+  <samples>139,139,58,2</samples>
+  <knn>Sink</knn>
+  <svm>Sink</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 104 ->kitchen
+2: 113 ->kitchen
+3: 234 ->kitchen
+4: 208 ->kitchen
+5: 203 ->kitchen
+6: 205 ->kitchen
+Data from kitchen PIR
+7: 203 ->kitchen
+8: 203 ->kitchen
+9: 205 ->kitchen
+10: 203 ->kitchen
+11: 205 ->kitchen
+12: 203 ->kitchen
+13: 205 ->kitchen
+Data from kitchen PIR
+Data from kitchen PIR
+14: 203 ->kitchen
+15: 203 ->kitchen
+16: 205 ->kitchen
+17: 205 ->kitchen
+18: 205 ->kitchen
+Data from kitchen PIR
+19: 203 ->kitchen
+20: 208 ->kitchen
+21: 205 ->kitchen
+22: 203 ->kitchen
+23: 205 ->kitchen
+24: 205 ->kitchen
+25: 205 ->kitchen
+26: 203 ->kitchen
+27: 205 ->kitchen
+28: 203 ->kitchen
+Data from kitchen PIR
+29: 205 ->kitchen
+30: 205 ->kitchen
+31: 205 ->kitchen
+32: 203 ->kitchen
+33: 205 ->kitchen
+34: 205 ->kitchen
+Data from kitchen PIR
+35: 205 ->kitchen
+36: 203 ->kitchen
+37: 205 ->kitchen
+Data from kitchen PIR
+38: 203 ->kitchen
+39: 205 ->kitchen
+40: 203 ->kitchen
+41: 203 ->kitchen
+Data from kitchen PIR
+42: 205 ->kitchen
+43: 203 ->kitchen
+44: 203 ->kitchen
+45: 203 ->kitchen
+46: 203 ->kitchen
+47: 203 ->kitchen
+48: 203 ->kitchen
+49: 205 ->kitchen
+Data from kitchen PIR
+50: 203 ->kitchen
+51: 203 ->kitchen
+52: 203 ->kitchen
+53: 200 ->kitchen
+Data from kitchen PIR
+54: 205 ->kitchen
+55: 203 ->kitchen
+56: 203 ->kitchen
+57: 203 ->kitchen
+58: 203 ->kitchen
+59: 200 ->kitchen
+60: 203 ->kitchen
+Data from kitchen PIR
+61: 203 ->kitchen
+62: 203 ->kitchen
+63: 203 ->kitchen
+64: 203 ->kitchen
+65: 203 ->kitchen
+Data from kitchen PIR
+66: 203 ->kitchen
+67: 205 ->kitchen
+68: 208 ->kitchen
+69: 208 ->kitchen
+70: 205 ->kitchen
+71: 208 ->kitchen
+72: 208 ->kitchen
+73: 203 ->kitchen
+74: 203 ->kitchen
+75: 205 ->kitchen
+76: 205 ->kitchen
+77: 205 ->kitchen
+Data from kitchen PIR
+78: 203 ->kitchen
+79: 203 ->kitchen
+80: 208 ->kitchen
+81: 203 ->kitchen
+82: 203 ->kitchen
+83: 200 ->kitchen
+84: 203 ->kitchen
+85: 203 ->kitchen
+86: 205 ->kitchen
+87: 200 ->kitchen
+88: 203 ->kitchen
+89: 203 ->kitchen
+90: 240 ->kitchen
+91: 275 ->kitchen
+92: 275 ->kitchen
+93: 240 ->kitchen
+94: 208 ->kitchen
+95: 205 ->kitchen
+96: 211 ->kitchen
+97: 205 ->kitchen
+98: 208 ->kitchen
+99: 211 ->kitchen
+100: 208 ->kitchen
+101: 246 ->kitchen
+102: 261 ->kitchen
+103: 263 ->kitchen
+104: 263 ->kitchen
+105: 261 ->kitchen
+106: 263 ->kitchen
+107: 261 ->kitchen
+108: 263 ->kitchen
+109: 263 ->kitchen
+110: 292 ->kitchen
+111: 313 ->kitchen
+112: 316 ->kitchen
+113: 316 ->kitchen
+114: 316 ->kitchen
+Data from kitchen PIR
+115: 295 ->kitchen
+116: 272 ->kitchen
+117: 269 ->kitchen
+118: 269 ->kitchen
+119: 272 ->kitchen
+120: 269 ->kitchen
+121: 269 ->kitchen
+122: 269 ->kitchen
+123: 266 ->kitchen
+124: 269 ->kitchen
+125: 272 ->kitchen
+126: 266 ->kitchen
+127: 269 ->kitchen
+128: 266 ->kitchen
+129: 266 ->kitchen
+130: 269 ->kitchen
+131: 266 ->kitchen
+132: 266 ->kitchen
+133: 266 ->kitchen
+134: 269 ->kitchen
+135: 266 ->kitchen
+136: 263 ->kitchen
+137: 266 ->kitchen
+138: 266 ->kitchen
+139: 266 ->kitchen
+140: 263 ->kitchen
+141: 263 ->kitchen
+Data from kitchen PIR
+Data from kitchen PIR
+142: 263 ->kitchen
+143: 263 ->kitchen
+144: 263 ->kitchen
+145: 263 ->kitchen
+146: 263 ->kitchen
+147: 263 ->kitchen
+148: 263 ->kitchen
+149: 263 ->kitchen
+150: 263 ->kitchen
+151: 266 ->kitchen
+152: 263 ->kitchen
+153: 266 ->kitchen
+154: 272 ->kitchen
+155: 292 ->kitchen
+156: 295 ->kitchen
+157: 298 ->kitchen
+158: 301 ->kitchen
+159: 278 ->kitchen
+160: 266 ->kitchen
+161: 266 ->kitchen
+162: 266 ->kitchen
+163: 266 ->kitchen
+Data from kitchen PIR
+164: 269 ->kitchen
+165: 266 ->kitchen
+166: 269 ->kitchen
+167: 266 ->kitchen
+168: 266 ->kitchen
+169: 266 ->kitchen
+Data from kitchen PIR
+170: 266 ->kitchen
+171: 266 ->kitchen
+172: 269 ->kitchen
+173: 266 ->kitchen
+Data from kitchen PIR
+174: 266 ->kitchen
+175: 266 ->kitchen
+176: 266 ->kitchen
+177: 266 ->kitchen
+178: 266 ->kitchen
+179: 223 ->kitchen
+180: 214 ->kitchen
+181: 211 ->kitchen
+182: 214 ->kitchen
+183: 214 ->kitchen
+184: 214 ->kitchen
+185: 214 ->kitchen
+186: 214 ->kitchen
+187: 214 ->kitchen
+188: 217 ->kitchen
+189: 214 ->kitchen
+190: 214 ->kitchen
+191: 217 ->kitchen
+192: 214 ->kitchen
+193: 214 ->kitchen
+194: 214 ->kitchen
+195: 217 ->kitchen
+196: 214 ->kitchen
+197: 217 ->kitchen
+198: 214 ->kitchen
+199: 214 ->kitchen
+200: 217 ->kitchen
+201: 214 ->kitchen
+202: 214 ->kitchen
+203: 217 ->kitchen
+204: 214 ->kitchen
+205: 214 ->kitchen
+206: 217 ->kitchen
+207: 211 ->kitchen
+208: 214 ->kitchen
+209: 214 ->kitchen
+210: 214 ->kitchen
+211: 217 ->kitchen
+212: 214 ->kitchen
+213: 211 ->kitchen
+214: 217 ->kitchen
+215: 217 ->kitchen
+216: 217 ->kitchen
+217: 217 ->kitchen
+Data from kitchen PIR
+218: 214 ->kitchen
+219: 214 ->kitchen
+220: 214 ->kitchen
+221: 214 ->kitchen
+222: 214 ->kitchen
+223: 217 ->kitchen
+224: 214 ->kitchen
+225: 217 ->kitchen
+226: 211 ->kitchen
+227: 217 ->kitchen
+Data from kitchen PIR
+228: 214 ->kitchen
+229: 217 ->kitchen
+230: 214 ->kitchen
+231: 214 ->kitchen
+232: 214 ->kitchen
+Data from kitchen PIR
+233: 214 ->kitchen
+Data from kitchen PIR
+234: 214 ->kitchen
+235: 214 ->kitchen
+236: 214 ->kitchen
+237: 211 ->kitchen
+238: 214 ->kitchen
+239: 214 ->kitchen
+240: 214 ->kitchen
+241: 211 ->kitchen
+242: 214 ->kitchen
+243: 217 ->kitchen
+244: 211 ->kitchen
+Data from kitchen PIR
+245: 214 ->kitchen
+246: 217 ->kitchen
+247: 214 ->kitchen
+248: 211 ->kitchen
+249: 214 ->kitchen
+250: 214 ->kitchen
+251: 211 ->kitchen
+252: 214 ->kitchen
+Data from kitchen PIR
+253: 211 ->kitchen
+Data from kitchen PIR
+254: 214 ->kitchen
+Data from kitchen PIR
+255: 211 ->kitchen
+256: 214 ->kitchen
+257: 211 ->kitchen
+258: 211 ->kitchen
+259: 214 ->kitchen
+260: 214 ->kitchen
+Data from kitchen PIR
+261: 211 ->kitchen
+262: 214 ->kitchen
+263: 214 ->kitchen
+264: 211 ->kitchen
+265: 214 ->kitchen
+266: 211 ->kitchen
+267: 214 ->kitchen
+268: 214 ->kitchen
+269: 214 ->kitchen
+270: 214 ->kitchen
+271: 211 ->kitchen
+272: 214 ->kitchen
+273: 214 ->kitchen
+274: 211 ->kitchen
+275: 211 ->kitchen
+276: 211 ->kitchen
+277: 211 ->kitchen
+Data from kitchen PIR
+278: 211 ->kitchen
+279: 211 ->kitchen
+280: 211 ->kitchen
+281: 211 ->kitchen
+282: 208 ->kitchen
+Data from kitchen PIR
+283: 211 ->kitchen
+284: 208 ->kitchen
+285: 211 ->kitchen
+286: 211 ->kitchen
+287: 208 ->kitchen
+288: 211 ->kitchen
+289: 208 ->kitchen
+290: 211 ->kitchen
+Data from kitchen PIR
+291: 208 ->kitchen
+292: 208 ->kitchen
+Data from kitchen PIR
+293: 211 ->kitchen
+Data from kitchen PIR
+294: 208 ->kitchen
+295: 211 ->kitchen
+296: 208 ->kitchen
+297: 211 ->kitchen
+298: 211 ->kitchen
+299: 208 ->kitchen
+300: 211 ->kitchen
+Data from kitchen PIR
+301: 211 ->kitchen
+302: 208 ->kitchen
+303: 211 ->kitchen
+304: 211 ->kitchen
+305: 208 ->kitchen
+Data from kitchen PIR
+306: 211 ->kitchen
+307: 211 ->kitchen
+308: 211 ->kitchen
+309: 211 ->kitchen
+Data from kitchen PIR
+310: 211 ->kitchen
+311: 214 ->kitchen
+312: 211 ->kitchen
+313: 214 ->kitchen
+314: 211 ->kitchen
+315: 214 ->kitchen
+316: 211 ->kitchen
+317: 214 ->kitchen
+318: 211 ->kitchen
+319: 214 ->kitchen
+320: 214 ->kitchen
+321: 211 ->kitchen
+322: 214 ->kitchen
+323: 214 ->kitchen
+324: 211 ->kitchen
+Data from kitchen PIR
+325: 217 ->kitchen
+326: 214 ->kitchen
+327: 214 ->kitchen
+328: 217 ->kitchen
+Data from kitchen PIR
+329: 214 ->kitchen
+330: 214 ->kitchen
+331: 217 ->kitchen
+332: 217 ->kitchen
+Data from kitchen PIR
+333: 217 ->kitchen
+334: 214 ->kitchen
+335: 214 ->kitchen
+336: 217 ->kitchen
+337: 214 ->kitchen
+338: 217 ->kitchen
+Data from kitchen PIR
+339: 214 ->kitchen
+340: 217 ->kitchen
+341: 214 ->kitchen
+342: 214 ->kitchen
+343: 214 ->kitchen
+344: 217 ->kitchen
+Data from kitchen PIR
+345: 214 ->kitchen
+346: 214 ->kitchen
+347: 214 ->kitchen
+348: 214 ->kitchen
+349: 217 ->kitchen
+350: 214 ->kitchen
+351: 217 ->kitchen
+352: 214 ->kitchen
+353: 214 ->kitchen
+Data from kitchen PIR
+354: 214 ->kitchen
+355: 214 ->kitchen
+Data from kitchen PIR
+356: 214 ->kitchen
+357: 214 ->kitchen
+358: 214 ->kitchen
+359: 217 ->kitchen
+360: 214 ->kitchen
+361: 217 ->kitchen
+362: 214 ->kitchen
+363: 214 ->kitchen
+364: 214 ->kitchen
+365: 214 ->kitchen
+366: 211 ->kitchen
+367: 214 ->kitchen
+368: 214 ->kitchen
+369: 211 ->kitchen
+370: 214 ->kitchen
+371: 214 ->kitchen
+372: 214 ->kitchen
+373: 211 ->kitchen
+374: 214 ->kitchen
+375: 214 ->kitchen
+376: 211 ->kitchen
+377: 214 ->kitchen
+378: 211 ->kitchen
+379: 211 ->kitchen
+380: 214 ->kitchen
+381: 211 ->kitchen
+382: 211 ->kitchen
+383: 211 ->kitchen
+384: 211 ->kitchen
+385: 211 ->kitchen
+386: 211 ->kitchen
+387: 211 ->kitchen
+388: 211 ->kitchen
+389: 211 ->kitchen
+390: 211 ->kitchen
+391: 211 ->kitchen
+Data from kitchen PIR
+392: 211 ->kitchen
+393: 211 ->kitchen
+394: 261 ->kitchen
+395: 261 ->kitchen
+396: 211 ->kitchen
+397: 214 ->kitchen
+398: 211 ->kitchen
+399: 211 ->kitchen
+400: 211 ->kitchen
+401: 211 ->kitchen
+402: 214 ->kitchen
+403: 211 ->kitchen
+404: 211 ->kitchen
+405: 214 ->kitchen
+Data from kitchen PIR
+406: 211 ->kitchen
+Data from kitchen PIR
+407: 211 ->kitchen
+408: 211 ->kitchen
+409: 214 ->kitchen
+410: 208 ->kitchen
+411: 214 ->kitchen
+412: 211 ->kitchen
+413: 211 ->kitchen
+414: 211 ->kitchen
+415: 214 ->kitchen
+416: 211 ->kitchen
+417: 211 ->kitchen
+418: 214 ->kitchen
+419: 211 ->kitchen
+420: 211 ->kitchen
+421: 211 ->kitchen
+422: 214 ->kitchen
+423: 211 ->kitchen
+424: 214 ->kitchen
+425: 208 ->kitchen
+426: 211 ->kitchen
+427: 211 ->kitchen
+428: 211 ->kitchen
+429: 211 ->kitchen
+430: 211 ->kitchen
+431: 208 ->kitchen
+432: 211 ->kitchen
+433: 208 ->kitchen
+434: 211 ->kitchen
+435: 211 ->kitchen
+436: 208 ->kitchen
+437: 211 ->kitchen
+438: 211 ->kitchen
+439: 211 ->kitchen
+440: 211 ->kitchen
+441: 208 ->kitchen
+442: 214 ->kitchen
+443: 211 ->kitchen
+444: 211 ->kitchen
+445: 211 ->kitchen
+446: 211 ->kitchen
+447: 211 ->kitchen
+448: 214 ->kitchen
+449: 211 ->kitchen
+450: 214 ->kitchen
+451: 211 ->kitchen
+452: 211 ->kitchen
+453: 214 ->kitchen
+454: 211 ->kitchen
+455: 214 ->kitchen
+456: 211 ->kitchen
+457: 214 ->kitchen
+458: 214 ->kitchen
+Data from kitchen PIR
+459: 214 ->kitchen
+460: 214 ->kitchen
+461: 214 ->kitchen
+Data from kitchen PIR
+462: 214 ->kitchen
+463: 214 ->kitchen
+464: 214 ->kitchen
+465: 214 ->kitchen
+466: 214 ->kitchen
+467: 214 ->kitchen
+468: 214 ->kitchen
+469: 214 ->kitchen
+470: 211 ->kitchen
+471: 211 ->kitchen
+472: 214 ->kitchen
+473: 214 ->kitchen
+474: 214 ->kitchen
+475: 214 ->kitchen
+476: 211 ->kitchen
+477: 214 ->kitchen
+478: 214 ->kitchen
+479: 214 ->kitchen
+480: 214 ->kitchen
+481: 211 ->kitchen
+482: 211 ->kitchen
+483: 214 ->kitchen
+484: 211 ->kitchen
+485: 211 ->kitchen
+486: 208 ->kitchen
+487: 211 ->kitchen
+488: 211 ->kitchen
+489: 211 ->kitchen
+490: 211 ->kitchen
+491: 211 ->kitchen
+492: 211 ->kitchen
+493: 211 ->kitchen
+494: 214 ->kitchen
+495: 211 ->kitchen
+496: 211 ->kitchen
+497: 208 ->kitchen
+498: 214 ->kitchen
+499: 211 ->kitchen
+500: 211 ->kitchen
+501: 211 ->kitchen
+502: 211 ->kitchen
+503: 211 ->kitchen
+504: 214 ->kitchen
+505: 211 ->kitchen
+506: 211 ->kitchen
+507: 211 ->kitchen
+508: 214 ->kitchen
+509: 211 ->kitchen
+510: 214 ->kitchen
+511: 211 ->kitchen
+512: 214 ->kitchen
+513: 211 ->kitchen
+514: 214 ->kitchen
+515: 211 ->kitchen
+516: 211 ->kitchen
+517: 214 ->kitchen
+518: 211 ->kitchen
+519: 214 ->kitchen
+520: 214 ->kitchen
+521: 214 ->kitchen
+522: 214 ->kitchen
+523: 214 ->kitchen
+524: 211 ->kitchen
+525: 214 ->kitchen
+526: 214 ->kitchen
+527: 214 ->kitchen
+528: 217 ->kitchen
+529: 214 ->kitchen
+530: 214 ->kitchen
+531: 214 ->kitchen
+532: 214 ->kitchen
+533: 214 ->kitchen
+534: 214 ->kitchen
+535: 214 ->kitchen
+536: 214 ->kitchen
+537: 211 ->kitchen
+538: 214 ->kitchen
+539: 214 ->kitchen
+540: 214 ->kitchen
+541: 214 ->kitchen
+542: 214 ->kitchen
+543: 214 ->kitchen
+544: 217 ->kitchen
+545: 214 ->kitchen
+546: 214 ->kitchen
+547: 214 ->kitchen
+548: 214 ->kitchen
+549: 214 ->kitchen
+550: 217 ->kitchen
+551: 214 ->kitchen
+552: 214 ->kitchen
+553: 214 ->kitchen
+554: 214 ->kitchen
+555: 214 ->kitchen
+556: 214 ->kitchen
+557: 217 ->kitchen
+558: 214 ->kitchen
+559: 214 ->kitchen
+560: 214 ->kitchen
+561: 217 ->kitchen
+562: 214 ->kitchen
+563: 214 ->kitchen
+564: 214 ->kitchen
+565: 214 ->kitchen
+566: 214 ->kitchen
+567: 214 ->kitchen
+568: 214 ->kitchen
+569: 214 ->kitchen
+570: 214 ->kitchen
+571: 211 ->kitchen
+572: 214 ->kitchen
+573: 211 ->kitchen
+574: 214 ->kitchen
+575: 211 ->kitchen
+576: 214 ->kitchen
+577: 211 ->kitchen
+578: 214 ->kitchen
+579: 214 ->kitchen
+580: 214 ->kitchen
+581: 211 ->kitchen
+582: 214 ->kitchen
+583: 214 ->kitchen
+584: 217 ->kitchen
+585: 211 ->kitchen
+586: 214 ->kitchen
+587: 214 ->kitchen
+588: 211 ->kitchen
+589: 214 ->kitchen
+590: 214 ->kitchen
+591: 211 ->kitchen
+592: 214 ->kitchen
+593: 214 ->kitchen
+594: 214 ->kitchen
+595: 214 ->kitchen
+596: 211 ->kitchen
+597: 211 ->kitchen
+598: 211 ->kitchen
+599: 214 ->kitchen
+600: 211 ->kitchen
+601: 211 ->kitchen
+602: 211 ->kitchen
+603: 211 ->kitchen
+604: 211 ->kitchen
+605: 211 ->kitchen
+606: 208 ->kitchen
+607: 211 ->kitchen
+608: 208 ->kitchen
+609: 208 ->kitchen
+610: 211 ->kitchen
+611: 208 ->kitchen
+612: 211 ->kitchen
+613: 208 ->kitchen
+614: 211 ->kitchen
+615: 211 ->kitchen
+616: 208 ->kitchen
+617: 211 ->kitchen
+618: 208 ->kitchen
+619: 208 ->kitchen
+620: 211 ->kitchen
+621: 208 ->kitchen
+622: 205 ->kitchen
+623: 208 ->kitchen
+624: 208 ->kitchen
+625: 208 ->kitchen
+626: 208 ->kitchen
+627: 205 ->kitchen
+628: 208 ->kitchen
+629: 205 ->kitchen
+630: 208 ->kitchen
+631: 208 ->kitchen
+632: 205 ->kitchen
+633: 205 ->kitchen
+634: 208 ->kitchen
+635: 205 ->kitchen
+636: 205 ->kitchen
+637: 208 ->kitchen
+638: 208 ->kitchen
+639: 208 ->kitchen
+640: 208 ->kitchen
+641: 208 ->kitchen
+642: 208 ->kitchen
+643: 208 ->kitchen
+644: 208 ->kitchen
+645: 211 ->kitchen
+646: 208 ->kitchen
+647: 208 ->kitchen
+648: 205 ->kitchen
+649: 211 ->kitchen
+650: 208 ->kitchen
+651: 208 ->kitchen
+652: 208 ->kitchen
+653: 211 ->kitchen
+654: 211 ->kitchen
+655: 208 ->kitchen
+656: 211 ->kitchen
+657: 208 ->kitchen
+658: 211 ->kitchen
+659: 211 ->kitchen
+660: 211 ->kitchen
+661: 211 ->kitchen
+662: 211 ->kitchen
+663: 211 ->kitchen
+664: 211 ->kitchen
+665: 214 ->kitchen
+666: 211 ->kitchen
+667: 211 ->kitchen
+668: 211 ->kitchen
+669: 214 ->kitchen
+670: 214 ->kitchen
+671: 211 ->kitchen
+672: 214 ->kitchen
+673: 217 ->kitchen
+674: 214 ->kitchen
+675: 214 ->kitchen
+676: 214 ->kitchen
+677: 214 ->kitchen
+678: 214 ->kitchen
+679: 214 ->kitchen
+680: 214 ->kitchen
+681: 217 ->kitchen
+682: 214 ->kitchen
+683: 214 ->kitchen
+684: 214 ->kitchen
+685: 214 ->kitchen
+686: 217 ->kitchen
+687: 214 ->kitchen
+688: 214 ->kitchen
+689: 217 ->kitchen
+690: 214 ->kitchen
+691: 214 ->kitchen
+692: 214 ->kitchen
+693: 217 ->kitchen
+694: 214 ->kitchen
+695: 214 ->kitchen
+696: 214 ->kitchen
+697: 214 ->kitchen
+698: 217 ->kitchen
+699: 214 ->kitchen
+700: 214 ->kitchen
+701: 217 ->kitchen
+702: 214 ->kitchen
+703: 214 ->kitchen
+704: 214 ->kitchen
+705: 211 ->kitchen
+706: 255 ->kitchen
+707: 266 ->kitchen
+708: 266 ->kitchen
+709: 266 ->kitchen
+710: 266 ->kitchen
+711: 263 ->kitchen
+712: 266 ->kitchen
+713: 263 ->kitchen
+714: 266 ->kitchen
+715: 266 ->kitchen
+716: 266 ->kitchen
+717: 263 ->kitchen
+718: 269 ->kitchen
+719: 266 ->kitchen
+720: 263 ->kitchen
+721: 266 ->kitchen
+722: 263 ->kitchen
+723: 266 ->kitchen
+724: 266 ->kitchen
+725: 263 ->kitchen
+726: 263 ->kitchen
+727: 263 ->kitchen
+728: 266 ->kitchen
+729: 263 ->kitchen
+730: 266 ->kitchen
+731: 263 ->kitchen
+732: 263 ->kitchen
+733: 263 ->kitchen
+734: 263 ->kitchen
+735: 263 ->kitchen
+736: 263 ->kitchen
+737: 263 ->kitchen
+738: 263 ->kitchen
+739: 263 ->kitchen
+740: 266 ->kitchen
+741: 263 ->kitchen
+742: 266 ->kitchen
+743: 266 ->kitchen
+744: 266 ->kitchen
+745: 269 ->kitchen
+746: 266 ->kitchen
+747: 269 ->kitchen
+748: 269 ->kitchen
+749: 269 ->kitchen
+750: 266 ->kitchen
+751: 269 ->kitchen
+752: 269 ->kitchen
+753: 269 ->kitchen
+754: 269 ->kitchen
+755: 269 ->kitchen
+756: 272 ->kitchen
+757: 269 ->kitchen
+758: 272 ->kitchen
+759: 269 ->kitchen
+760: 269 ->kitchen
+761: 269 ->kitchen
+762: 272 ->kitchen
+763: 269 ->kitchen
+764: 269 ->kitchen
+765: 269 ->kitchen
+766: 269 ->kitchen
+767: 266 ->kitchen
+768: 269 ->kitchen
+769: 269 ->kitchen
+770: 263 ->kitchen
+771: 217 ->kitchen
+772: 217 ->kitchen
+773: 214 ->kitchen
+774: 214 ->kitchen
+775: 214 ->kitchen
+776: 217 ->kitchen
+777: 214 ->kitchen
+778: 214 ->kitchen
+779: 214 ->kitchen
+780: 214 ->kitchen
+781: 217 ->kitchen
+782: 214 ->kitchen
+783: 214 ->kitchen
+784: 214 ->kitchen
+785: 214 ->kitchen
+786: 211 ->kitchen
+787: 211 ->kitchen
+788: 214 ->kitchen
+789: 211 ->kitchen
+790: 208 ->kitchen
+791: 211 ->kitchen
+792: 211 ->kitchen
+793: 211 ->kitchen
+794: 208 ->kitchen
+795: 214 ->kitchen
+796: 211 ->kitchen
+797: 211 ->kitchen
+798: 211 ->kitchen
+799: 211 ->kitchen
+800: 211 ->kitchen
+801: 214 ->kitchen
+802: 211 ->kitchen
+803: 211 ->kitchen
+804: 214 ->kitchen
+805: 211 ->kitchen
+806: 208 ->kitchen
+807: 214 ->kitchen
+808: 211 ->kitchen
+809: 211 ->kitchen
+810: 211 ->kitchen
+811: 211 ->kitchen
+812: 211 ->kitchen
+813: 211 ->kitchen
+814: 211 ->kitchen
+815: 211 ->kitchen
+816: 211 ->kitchen
+817: 214 ->kitchen
+818: 211 ->kitchen
+819: 214 ->kitchen
+820: 208 ->kitchen
+821: 214 ->kitchen
+822: 211 ->kitchen
+823: 214 ->kitchen
+824: 211 ->kitchen
+825: 214 ->kitchen
+826: 211 ->kitchen
+827: 214 ->kitchen
+828: 214 ->kitchen
+829: 214 ->kitchen
+830: 214 ->kitchen
+831: 217 ->kitchen
+832: 214 ->kitchen
+833: 217 ->kitchen
+834: 217 ->kitchen
+835: 217 ->kitchen
+836: 214 ->kitchen
+837: 217 ->kitchen
+838: 214 ->kitchen
+839: 217 ->kitchen
+840: 217 ->kitchen
+841: 217 ->kitchen
+842: 217 ->kitchen
+843: 217 ->kitchen
+844: 217 ->kitchen
+845: 217 ->kitchen
+846: 220 ->kitchen
+847: 217 ->kitchen
+848: 217 ->kitchen
+849: 217 ->kitchen
+850: 217 ->kitchen
+851: 217 ->kitchen
+852: 217 ->kitchen
+853: 217 ->kitchen
+854: 217 ->kitchen
+855: 220 ->kitchen
+856: 217 ->kitchen
+857: 220 ->kitchen
+858: 217 ->kitchen
+859: 214 ->kitchen
+860: 217 ->kitchen
+861: 217 ->kitchen
+862: 217 ->kitchen
+863: 217 ->kitchen
+864: 214 ->kitchen
+865: 217 ->kitchen
+866: 214 ->kitchen
+867: 214 ->kitchen
+868: 217 ->kitchen
+869: 214 ->kitchen
+870: 214 ->kitchen
+871: 217 ->kitchen
+872: 214 ->kitchen
+873: 217 ->kitchen
+874: 214 ->kitchen
+875: 217 ->kitchen
+876: 214 ->kitchen
+877: 217 ->kitchen
+878: 214 ->kitchen
+879: 214 ->kitchen
+880: 214 ->kitchen
+881: 214 ->kitchen
+882: 214 ->kitchen
+883: 214 ->kitchen
+884: 214 ->kitchen
+885: 217 ->kitchen
+886: 214 ->kitchen
+887: 214 ->kitchen
+888: 214 ->kitchen
+889: 217 ->kitchen
+890: 217 ->kitchen
+891: 214 ->kitchen
+Data from ensuite PIR
+892: 217 ->kitchen
+893: 217 ->kitchen
+894: 214 ->kitchen
+895: 217 ->kitchen
+896: 217 ->kitchen
+897: 214 ->kitchen
+898: 214 ->kitchen
+899: 214 ->kitchen
+900: 217 ->kitchen
+901: 214 ->kitchen
+902: 217 ->kitchen
+903: 214 ->kitchen
+904: 214 ->kitchen
+905: 217 ->kitchen
+906: 214 ->kitchen
+907: 217 ->kitchen
+908: 217 ->kitchen
+909: 217 ->kitchen
+910: 217 ->kitchen
+911: 217 ->kitchen
+912: 217 ->kitchen
+913: 217 ->kitchen
+914: 217 ->kitchen
+915: 214 ->kitchen
+916: 220 ->kitchen
+917: 217 ->kitchen
+918: 214 ->kitchen
+919: 217 ->kitchen
+920: 217 ->kitchen
+921: 217 ->kitchen
+922: 217 ->kitchen
+923: 214 ->kitchen
+924: 217 ->kitchen
+925: 217 ->kitchen
+926: 217 ->kitchen
+Data from ensuite PIR
+927: 217 ->kitchen
+928: 214 ->kitchen
+929: 217 ->kitchen
+930: 217 ->kitchen
+931: 220 ->kitchen
+932: 217 ->kitchen
+933: 217 ->kitchen
+934: 217 ->kitchen
+935: 217 ->kitchen
+936: 217 ->kitchen
+937: 217 ->kitchen
+938: 217 ->kitchen
+939: 217 ->kitchen
+940: 217 ->kitchen
+941: 217 ->kitchen
+942: 217 ->kitchen
+943: 217 ->kitchen
+944: 220 ->kitchen
+945: 217 ->kitchen
+946: 217 ->kitchen
+947: 217 ->kitchen
+948: 217 ->kitchen
+949: 217 ->kitchen
+950: 214 ->kitchen
+951: 217 ->kitchen
+952: 214 ->kitchen
+953: 217 ->kitchen
+954: 217 ->kitchen
+955: 214 ->kitchen
+956: 214 ->kitchen
+957: 217 ->kitchen
+958: 217 ->kitchen
+959: 217 ->kitchen
+960: 214 ->kitchen
+961: 217 ->kitchen
+962: 214 ->kitchen
+963: 217 ->kitchen
+964: 214 ->kitchen
+965: 217 ->kitchen
+966: 214 ->kitchen
+967: 217 ->kitchen
+968: 214 ->kitchen
+969: 214 ->kitchen
+970: 214 ->kitchen
+971: 217 ->kitchen
+972: 214 ->kitchen
+973: 214 ->kitchen
+974: 214 ->kitchen
+975: 214 ->kitchen
+976: 214 ->kitchen
+977: 214 ->kitchen
+978: 214 ->kitchen
+979: 214 ->kitchen
+980: 211 ->kitchen
+981: 214 ->kitchen
+982: 214 ->kitchen
+983: 211 ->kitchen
+984: 214 ->kitchen
+985: 211 ->kitchen
+986: 214 ->kitchen
+987: 214 ->kitchen
+988: 211 ->kitchen
+Data from ensuite PIR
+989: 249 ->kitchen
+990: 298 ->kitchen
+991: 295 ->kitchen
+Data from ensuite PIR
+992: 301 ->kitchen
+993: 298 ->kitchen
+994: 301 ->kitchen
+995: 301 ->kitchen
+996: 301 ->kitchen
+Data from ensuite PIR
+997: 301 ->kitchen
+998: 304 ->kitchen
+999: 301 ->kitchen
+1000: 301 ->kitchen
+Data from ensuite PIR
+1001: 304 ->kitchen
+1002: 301 ->kitchen
+1003: 304 ->kitchen
+1004: 301 ->kitchen
+1005: 304 ->kitchen
+Data from ensuite PIR
+1006: 304 ->kitchen
+1007: 304 ->kitchen
+1008: 301 ->kitchen
+1009: 304 ->kitchen
+1010: 304 ->kitchen
+1011: 330 ->kitchen
+1012: 385 ->kitchen
+Data from ensuite PIR
+1013: 394 ->kitchen
+1014: 397 ->kitchen
+1015: 397 ->kitchen
+1016: 321 ->kitchen
+1017: 321 ->kitchen
+1018: 321 ->kitchen
+1019: 319 ->kitchen
+1020: 319 ->kitchen
+1021: 321 ->kitchen
+1022: 307 ->kitchen
+1023: 232 ->kitchen
+1024: 226 ->kitchen
+1025: 226 ->kitchen
+1026: 226 ->kitchen
+1027: 226 ->kitchen
+1028: 226 ->kitchen
+1029: 229 ->kitchen
+1030: 226 ->kitchen
+1031: 226 ->kitchen
+1032: 226 ->kitchen
+1033: 229 ->kitchen
+1034: 226 ->kitchen
+1035: 226 ->kitchen
+1036: 226 ->kitchen
+1037: 229 ->kitchen
+1038: 226 ->kitchen
+1039: 226 ->kitchen
+1040: 229 ->kitchen
+1041: 226 ->kitchen
+1042: 226 ->kitchen
+1043: 223 ->kitchen
+1044: 226 ->kitchen
+1045: 226 ->kitchen
+1046: 223 ->kitchen
+1047: 223 ->kitchen
+1048: 223 ->kitchen
+1049: 226 ->kitchen
+1050: 223 ->kitchen
+1051: 223 ->kitchen
+1052: 223 ->kitchen
+1053: 220 ->kitchen
+1054: 220 ->kitchen
+1055: 223 ->kitchen
+1056: 223 ->kitchen
+1057: 223 ->kitchen
+1058: 220 ->kitchen
+1059: 223 ->kitchen
+1060: 223 ->kitchen
+1061: 220 ->kitchen
+1062: 223 ->kitchen
+1063: 220 ->kitchen
+1064: 223 ->kitchen
+1065: 220 ->kitchen
+1066: 223 ->kitchen
+1067: 220 ->kitchen
+1068: 220 ->kitchen
+1069: 220 ->kitchen
+1070: 223 ->kitchen
+1071: 220 ->kitchen
+1072: 220 ->kitchen
+1073: 220 ->kitchen
+1074: 220 ->kitchen
+1075: 220 ->kitchen
+1076: 220 ->kitchen
+1077: 220 ->kitchen
+1078: 223 ->kitchen
+1079: 220 ->kitchen
+1080: 223 ->kitchen
+1081: 220 ->kitchen
+1082: 223 ->kitchen
+1083: 272 ->kitchen
+1084: 281 ->kitchen
+1085: 281 ->kitchen
+1086: 278 ->kitchen
+1087: 281 ->kitchen
+1088: 278 ->kitchen
+1089: 278 ->kitchen
+1090: 281 ->kitchen
+1091: 278 ->kitchen
+1092: 281 ->kitchen
+1093: 278 ->kitchen
+1094: 281 ->kitchen
+1095: 278 ->kitchen
+1096: 281 ->kitchen
+1097: 278 ->kitchen
+1098: 278 ->kitchen
+1099: 278 ->kitchen
+1100: 278 ->kitchen
+1101: 278 ->kitchen
+1102: 278 ->kitchen
+1103: 278 ->kitchen
+1104: 278 ->kitchen
+1105: 278 ->kitchen
+1106: 278 ->kitchen
+1107: 278 ->kitchen
+1108: 278 ->kitchen
+1109: 278 ->kitchen
+1110: 278 ->kitchen
+1111: 275 ->kitchen
+1112: 278 ->kitchen
+1113: 278 ->kitchen
+1114: 278 ->kitchen
+1115: 278 ->kitchen
+1116: 275 ->kitchen
+1117: 278 ->kitchen
+1118: 278 ->kitchen
+1119: 278 ->kitchen
+1120: 278 ->kitchen
+1121: 278 ->kitchen
+1122: 281 ->kitchen
+1123: 278 ->kitchen
+1124: 278 ->kitchen
+1125: 281 ->kitchen
+1126: 281 ->kitchen
+1127: 278 ->kitchen
+1128: 281 ->kitchen
+1129: 281 ->kitchen
+1130: 281 ->kitchen
+1131: 278 ->kitchen
+1132: 278 ->kitchen
+1133: 278 ->kitchen
+1134: 278 ->kitchen
+1135: 281 ->kitchen
+1136: 275 ->kitchen
+1137: 278 ->kitchen
+1138: 278 ->kitchen
+1139: 278 ->kitchen
+1140: 275 ->kitchen
+1141: 281 ->kitchen
+1142: 278 ->kitchen
+1143: 278 ->kitchen
+1144: 278 ->kitchen
+1145: 281 ->kitchen
+1146: 278 ->kitchen
+1147: 258 ->kitchen
+1148: 226 ->kitchen
+1149: 226 ->kitchen
+1150: 226 ->kitchen
+1151: 223 ->kitchen
+1152: 226 ->kitchen
+1153: 226 ->kitchen
+1154: 226 ->kitchen
+1155: 226 ->kitchen
+1156: 223 ->kitchen
+1157: 226 ->kitchen
+1158: 226 ->kitchen
+1159: 226 ->kitchen
+1160: 223 ->kitchen
+1161: 226 ->kitchen
+1162: 223 ->kitchen
+1163: 223 ->kitchen
+1164: 223 ->kitchen
+1165: 220 ->kitchen
+1166: 223 ->kitchen
+1167: 223 ->kitchen
+1168: 226 ->kitchen
+1169: 220 ->kitchen
+1170: 223 ->kitchen
+1171: 223 ->kitchen
+1172: 220 ->kitchen
+1173: 223 ->kitchen
+1174: 223 ->kitchen
+1175: 220 ->kitchen
+1176: 223 ->kitchen
+1177: 223 ->kitchen
+1178: 220 ->kitchen
+1179: 223 ->kitchen
+1180: 220 ->kitchen
+1181: 220 ->kitchen
+1182: 223 ->kitchen
+1183: 220 ->kitchen
+1184: 220 ->kitchen
+1185: 223 ->kitchen
+1186: 217 ->kitchen
+1187: 223 ->kitchen
+1188: 220 ->kitchen
+1189: 220 ->kitchen
+1190: 220 ->kitchen
+1191: 220 ->kitchen
+Data from kitchen PIR
+1192: 223 ->kitchen
+1193: 220 ->kitchen
+1194: 223 ->kitchen
+1195: 220 ->kitchen
+1196: 220 ->kitchen
+1197: 220 ->kitchen
+1198: 223 ->kitchen
+Data from kitchen PIR
+1199: 220 ->kitchen
+1200: 220 ->kitchen
+1201: 223 ->kitchen
+Data from kitchen PIR
+1202: 223 ->kitchen
+1203: 223 ->kitchen
+Data from kitchen PIR
+1204: 220 ->kitchen
+1205: 223 ->kitchen
+1206: 223 ->kitchen
+1207: 223 ->kitchen
+1208: 220 ->kitchen
+1209: 223 ->kitchen
+Data from kitchen PIR
+1210: 223 ->kitchen
+1211: 223 ->kitchen
+1212: 223 ->kitchen
+1213: 258 ->kitchen
+1214: 287 ->kitchen
+1215: 246 ->kitchen
+1216: 223 ->kitchen
+1217: 272 ->kitchen
+1218: 223 ->kitchen
+Data from kitchen PIR
+1219: 223 ->kitchen
+1220: 223 ->kitchen
+1221: 223 ->kitchen
+1222: 226 ->kitchen
+1223: 226 ->kitchen
+1224: 226 ->kitchen
+1225: 223 ->kitchen
+Data from kitchen PIR
+1226: 226 ->kitchen
+Data from kitchen PIR
+Data from kitchen PIR
+1227: 226 ->kitchen
+1228: 226 ->kitchen
+1229: 226 ->kitchen
+1230: 226 ->kitchen
+1231: 226 ->kitchen
+1232: 223 ->kitchen
+1233: 226 ->kitchen
+1234: 223 ->kitchen
+1235: 226 ->kitchen
+1236: 226 ->kitchen
+1237: 226 ->kitchen
+1238: 223 ->kitchen
+1239: 226 ->kitchen
+1240: 226 ->kitchen
+1241: 226 ->kitchen
+1242: 223 ->kitchen
+1243: 226 ->kitchen
+1244: 223 ->kitchen
+1245: 226 ->kitchen
+1246: 223 ->kitchen
+1247: 223 ->kitchen
+Data from kitchen PIR
+1248: 223 ->kitchen
+Data from kitchen PIR
+1249: 226 ->kitchen
+1250: 223 ->kitchen
+1251: 223 ->kitchen
+1252: 223 ->kitchen
+1253: 223 ->kitchen
+1254: 223 ->kitchen
+1255: 220 ->kitchen
+1256: 223 ->kitchen
+1257: 223 ->kitchen
+1258: 223 ->kitchen
+1259: 223 ->kitchen
+1260: 223 ->kitchen
+1261: 223 ->kitchen
+1262: 226 ->kitchen
+1263: 223 ->kitchen
+1264: 223 ->kitchen
+1265: 226 ->kitchen
+1266: 223 ->kitchen
+1267: 223 ->kitchen
+1268: 223 ->kitchen
+1269: 226 ->kitchen
+1270: 223 ->kitchen
+1271: 226 ->kitchen
+1272: 223 ->kitchen
+1273: 226 ->kitchen
+1274: 223 ->kitchen
+1275: 223 ->kitchen
+1276: 223 ->kitchen
+1277: 226 ->kitchen
+1278: 223 ->kitchen
+1279: 223 ->kitchen
+1280: 223 ->kitchen
+1281: 223 ->kitchen
+1282: 223 ->kitchen
+1283: 223 ->kitchen
+1284: 223 ->kitchen
+1285: 220 ->kitchen
+1286: 223 ->kitchen
+1287: 223 ->kitchen
+1288: 220 ->kitchen
+1289: 220 ->kitchen
+1290: 220 ->kitchen
+1291: 223 ->kitchen
+1292: 220 ->kitchen
+1293: 223 ->kitchen
+1294: 220 ->kitchen
+1295: 220 ->kitchen
+1296: 223 ->kitchen
+1297: 220 ->kitchen
+1298: 220 ->kitchen
+1299: 220 ->kitchen
+1300: 220 ->kitchen
+1301: 220 ->kitchen
+1302: 220 ->kitchen
+1303: 220 ->kitchen
+1304: 220 ->kitchen
+1305: 223 ->kitchen
+1306: 220 ->kitchen
+1307: 223 ->kitchen
+1308: 217 ->kitchen
+1309: 220 ->kitchen
+1310: 220 ->kitchen
+1311: 220 ->kitchen
+1312: 220 ->kitchen
+1313: 220 ->kitchen
+1314: 217 ->kitchen
+1315: 223 ->kitchen
+1316: 217 ->kitchen
+1317: 220 ->kitchen
+1318: 220 ->kitchen
+1319: 220 ->kitchen
+1320: 220 ->kitchen
+1321: 220 ->kitchen
+1322: 220 ->kitchen
+1323: 220 ->kitchen
+1324: 223 ->kitchen
+1325: 217 ->kitchen
+1326: 220 ->kitchen
+1327: 220 ->kitchen
+1328: 220 ->kitchen
+1329: 220 ->kitchen
+1330: 220 ->kitchen
+1331: 220 ->kitchen
+1332: 223 ->kitchen
+1333: 217 ->kitchen
+1334: 220 ->kitchen
+1335: 220 ->kitchen
+1336: 223 ->kitchen
+1337: 223 ->kitchen
+1338: 220 ->kitchen
+1339: 223 ->kitchen
+1340: 223 ->kitchen
+1341: 220 ->kitchen
+1342: 223 ->kitchen
+1343: 223 ->kitchen
+1344: 220 ->kitchen
+1345: 223 ->kitchen
+1346: 220 ->kitchen
+1347: 220 ->kitchen
+1348: 223 ->kitchen
+1349: 223 ->kitchen
+1350: 223 ->kitchen
+1351: 220 ->kitchen
+1352: 223 ->kitchen
+1353: 223 ->kitchen
+1354: 223 ->kitchen
+1355: 220 ->kitchen
+1356: 223 ->kitchen
+1357: 223 ->kitchen
+1358: 220 ->kitchen
+1359: 223 ->kitchen
+1360: 223 ->kitchen
+1361: 223 ->kitchen
+1362: 223 ->kitchen
+1363: 223 ->kitchen
+1364: 223 ->kitchen
+1365: 223 ->kitchen
+1366: 220 ->kitchen
+1367: 223 ->kitchen
+1368: 223 ->kitchen
+1369: 220 ->kitchen
+1370: 223 ->kitchen
+1371: 220 ->kitchen
+1372: 223 ->kitchen
+1373: 223 ->kitchen
+1374: 81 ->kitchen
+1375: 2 ->kitchen
+Unknown source for data=[104, 113, 234, 208, 203, 205, 203, 203, 205, 203, 205, 203, 205, 203, 203, 205, 205, 205, 203, 208, 205, 203, 205, 205, 205, 203, 205, 203, 205, 205, 205, 203, 205, 205, 205, 203, 205, 203, 205, 203, 203, 205, 203, 203, 203, 203, 203, 203, 205, 203, 203, 203, 200, 205, 203, 203, 203, 203, 200, 203, 203, 203, 203, 203, 203, 203, 205, 208, 208, 205, 208, 208, 203, 203, 205, 205, 205, 203, 203, 208, 203, 203, 200, 203, 203, 205, 200, 203, 203, 240, 275, 275, 240, 208, 205, 211, 205, 208, 211, 208, 246, 261, 263, 263, 261, 263, 261, 263, 263, 292, 313, 316, 316, 316, 295, 272, 269, 269, 272, 269, 269, 269, 266, 269, 272, 266, 269, 266, 266, 269, 266, 266, 266, 269, 266, 263, 266, 266, 266, 263, 263, 263, 263, 263, 263, 263, 263, 263, 263, 263, 266, 263, 266, 272, 292, 295, 298, 301, 278, 266, 266, 266, 266, 269, 266, 269, 266, 266, 266, 266, 266, 269, 266, 266, 266, 266, 266, 266, 223, 214, 211, 214, 214, 214, 214, 214, 214, 217, 214, 214, 217, 214, 214, 214, 217, 214, 217, 214, 214, 217, 214, 214, 217, 214, 214, 217, 211, 214, 214, 214, 217, 214, 211, 217, 217, 217, 217, 214, 214, 214, 214, 214, 217, 214, 217, 211, 217, 214, 217, 214, 214, 214, 214, 214, 214, 214, 211, 214, 214, 214, 211, 214, 217, 211, 214, 217, 214, 211, 214, 214, 211, 214, 211, 214, 211, 214, 211, 211, 214, 214, 211, 214, 214, 211, 214, 211, 214, 214, 214, 214, 211, 214, 214, 211, 211, 211, 211, 211, 211, 211, 211, 208, 211, 208, 211, 211, 208, 211, 208, 211, 208, 208, 211, 208, 211, 208, 211, 211, 208, 211, 211, 208, 211, 211, 208, 211, 211, 211, 211, 211, 214, 211, 214, 211, 214, 211, 214, 211, 214, 214, 211, 214, 214, 211, 217, 214, 214, 217, 214, 214, 217, 217, 217, 214, 214, 217, 214, 217, 214, 217, 214, 214, 214, 217, 214, 214, 214, 214, 217, 214, 217, 214, 214, 214, 214, 214, 214, 214, 217, 214, 217, 214, 214, 214, 214, 211, 214, 214, 211, 214, 214, 214, 211, 214, 214, 211, 214, 211, 211, 214, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 261, 261, 211, 214, 211, 211, 211, 211, 214, 211, 211, 214, 211, 211, 211, 214, 208, 214, 211, 211, 211, 214, 211, 211, 214, 211, 211, 211, 214, 211, 214, 208, 211, 211, 211, 211, 211, 208, 211, 208, 211, 211, 208, 211, 211, 211, 211, 208, 214, 211, 211, 211, 211, 211, 214, 211, 214, 211, 211, 214, 211, 214, 211, 214, 214, 214, 214, 214, 214, 214, 214, 214, 214, 214, 214, 214, 211, 211, 214, 214, 214, 214, 211, 214, 214, 214, 214, 211, 211, 214, 211, 211, 208, 211, 211, 211, 211, 211, 211, 211, 214, 211, 211, 208, 214, 211, 211, 211, 211, 211, 214, 211, 211, 211, 214, 211, 214, 211, 214, 211, 214, 211, 211, 214, 211, 214, 214, 214, 214, 214, 211, 214, 214, 214, 217, 214, 214, 214, 214, 214, 214, 214, 214, 211, 214, 214, 214, 214, 214, 214, 217, 214, 214, 214, 214, 214, 217, 214, 214, 214, 214, 214, 214, 217, 214, 214, 214, 217, 214, 214, 214, 214, 214, 214, 214, 214, 214, 211, 214, 211, 214, 211, 214, 211, 214, 214, 214, 211, 214, 214, 217, 211, 214, 214, 211, 214, 214, 211, 214, 214, 214, 214, 211, 211, 211, 214, 211, 211, 211, 211, 211, 211, 208, 211, 208, 208, 211, 208, 211, 208, 211, 211, 208, 211, 208, 208, 211, 208, 205, 208, 208, 208, 208, 205, 208, 205, 208, 208, 205, 205, 208, 205, 205, 208, 208, 208, 208, 208, 208, 208, 208, 211, 208, 208, 205, 211, 208, 208, 208, 211, 211, 208, 211, 208, 211, 211, 211, 211, 211, 211, 211, 214, 211, 211, 211, 214, 214, 211, 214, 217, 214, 214, 214, 214, 214, 214, 214, 217, 214, 214, 214, 214, 217, 214, 214, 217, 214, 214, 214, 217, 214, 214, 214, 214, 217, 214, 214, 217, 214, 214, 214, 211, 255, 266, 266, 266, 266, 263, 266, 263, 266, 266, 266, 263, 269, 266, 263, 266, 263, 266, 266, 263, 263, 263, 266, 263, 266, 263, 263, 263, 263, 263, 263, 263, 263, 263, 266, 263, 266, 266, 266, 269, 266, 269, 269, 269, 266, 269, 269, 269, 269, 269, 272, 269, 272, 269, 269, 269, 272, 269, 269, 269, 269, 266, 269, 269, 263, 217, 217, 214, 214, 214, 217, 214, 214, 214, 214, 217, 214, 214, 214, 214, 211, 211, 214, 211, 208, 211, 211, 211, 208, 214, 211, 211, 211, 211, 211, 214, 211, 211, 214, 211, 208, 214, 211, 211, 211, 211, 211, 211, 211, 211, 211, 214, 211, 214, 208, 214, 211, 214, 211, 214, 211, 214, 214, 214, 214, 217, 214, 217, 217, 217, 214, 217, 214, 217, 217, 217, 217, 217, 217, 217, 220, 217, 217, 217, 217, 217, 217, 217, 217, 220, 217, 220, 217, 214, 217, 217, 217, 217, 214, 217, 214, 214, 217, 214, 214, 217, 214, 217, 214, 217, 214, 217, 214, 214, 214, 214, 214, 214, 214, 217, 214, 214, 214, 217, 217, 214, 217, 217, 214, 217, 217, 214, 214, 214, 217, 214, 217, 214, 214, 217, 214, 217, 217, 217, 217, 217, 217, 217, 217, 214, 220, 217, 214, 217, 217, 217, 217, 214, 217, 217, 217, 217, 214, 217, 217, 220, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 220, 217, 217, 217, 217, 217, 214, 217, 214, 217, 217, 214, 214, 217, 217, 217, 214, 217, 214, 217, 214, 217, 214, 217, 214, 214, 214, 217, 214, 214, 214, 214, 214, 214, 214, 214, 211, 214, 214, 211, 214, 211, 214, 214, 211, 249, 298, 295, 301, 298, 301, 301, 301, 301, 304, 301, 301, 304, 301, 304, 301, 304, 304, 304, 301, 304, 304, 330, 385, 394, 397, 397, 321, 321, 321, 319, 319, 321, 307, 232, 226, 226, 226, 226, 226, 229, 226, 226, 226, 229, 226, 226, 226, 229, 226, 226, 229, 226, 226, 223, 226, 226, 223, 223, 223, 226, 223, 223, 223, 220, 220, 223, 223, 223, 220, 223, 223, 220, 223, 220, 223, 220, 223, 220, 220, 220, 223, 220, 220, 220, 220, 220, 220, 220, 223, 220, 223, 220, 223, 272, 281, 281, 278, 281, 278, 278, 281, 278, 281, 278, 281, 278, 281, 278, 278, 278, 278, 278, 278, 278, 278, 278, 278, 278, 278, 278, 278, 275, 278, 278, 278, 278, 275, 278, 278, 278, 278, 278, 281, 278, 278, 281, 281, 278, 281, 281, 281, 278, 278, 278, 278, 281, 275, 278, 278, 278, 275, 281, 278, 278, 278, 281, 278, 258, 226, 226, 226, 223, 226, 226, 226, 226, 223, 226, 226, 226, 223, 226, 223, 223, 223, 220, 223, 223, 226, 220, 223, 223, 220, 223, 223, 220, 223, 223, 220, 223, 220, 220, 223, 220, 220, 223, 217, 223, 220, 220, 220, 220, 223, 220, 223, 220, 220, 220, 223, 220, 220, 223, 223, 223, 220, 223, 223, 223, 220, 223, 223, 223, 223, 258, 287, 246, 223, 272, 223, 223, 223, 223, 226, 226, 226, 223, 226, 226, 226, 226, 226, 226, 223, 226, 223, 226, 226, 226, 223, 226, 226, 226, 223, 226, 223, 226, 223, 223, 223, 226, 223, 223, 223, 223, 223, 220, 223, 223, 223, 223, 223, 223, 226, 223, 223, 226, 223, 223, 223, 226, 223, 226, 223, 226, 223, 223, 223, 226, 223, 223, 223, 223, 223, 223, 223, 220, 223, 223, 220, 220, 220, 223, 220, 223, 220, 220, 223, 220, 220, 220, 220, 220, 220, 220, 220, 223, 220, 223, 217, 220, 220, 220, 220, 220, 217, 223, 217, 220, 220, 220, 220, 220, 220, 220, 223, 217, 220, 220, 220, 220, 220, 220, 223, 217, 220, 220, 223, 223, 220, 223, 223, 220, 223, 223, 220, 223, 220, 220, 223, 223, 223, 220, 223, 223, 223, 220, 223, 223, 220, 223, 223, 223, 223, 223, 223, 223, 220, 223, 223, 220, 223, 220, 223, 223, 81, 2]
+
+Data not logged - only logging data for..
+[]
+
+
+1: 127 ->unk
+2: 127 ->unk
+3: 130 ->unk
+4: 127 ->unk
+5: 130 ->unk
+6: 127 ->unk
+7: 127 ->unk
+8: 127 ->unk
+9: 130 ->unk
+10: 127 ->unk
+11: 127 ->unk
+12: 130 ->unk
+13: 127 ->unk
+14: 127 ->unk
+15: 127 ->unk
+16: 130 ->unk
+17: 127 ->unk
+18: 127 ->unk
+19: 130 ->unk
+20: 127 ->unk
+21: 127 ->unk
+22: 130 ->unk
+23: 127 ->unk
+24: 81 ->unk
+25: 2 ->unk
+Unknown source for data=[127, 127, 130, 127, 130, 127, 127, 127, 130, 127, 127, 130, 127, 127, 127, 130, 127, 127, 130, 127, 127, 130, 127, 81, 2]
+
+Data not logged - only logging data for..
+[]
+
+
+1: 49 ->unk
+2: 34 ->unk
+3: 89 ->unk
+4: 89 ->unk
+5: 87 ->unk
+6: 87 ->unk
+7: 87 ->unk
+8: 89 ->unk
+9: 87 ->unk
+10: 89 ->unk
+11: 87 ->unk
+12: 89 ->unk
+13: 87 ->unk
+14: 89 ->unk
+15: 145 ->unk
+16: 66 ->unk
+17: 84 ->unk
+18: 98 ->unk
+19: 101 ->unk
+20: 95 ->unk
+21: 98 ->unk
+22: 98 ->unk
+23: 98 ->unk
+24: 101 ->unk
+25: 98 ->unk
+26: 95 ->unk
+27: 101 ->unk
+28: 98 ->unk
+29: 98 ->unk
+30: 98 ->unk
+31: 98 ->unk
+32: 98 ->unk
+33: 101 ->unk
+34: 98 ->unk
+35: 98 ->unk
+36: 98 ->unk
+37: 101 ->unk
+38: 98 ->unk
+39: 98 ->unk
+40: 101 ->unk
+41: 98 ->unk
+42: 98 ->unk
+43: 101 ->unk
+44: 98 ->unk
+45: 98 ->unk
+46: 98 ->unk
+47: 101 ->unk
+48: 101 ->unk
+49: 98 ->unk
+50: 98 ->unk
+51: 101 ->unk
+52: 98 ->unk
+53: 98 ->unk
+54: 101 ->unk
+55: 98 ->unk
+56: 98 ->unk
+57: 101 ->unk
+58: 98 ->unk
+59: 98 ->unk
+60: 101 ->unk
+61: 98 ->unk
+62: 98 ->unk
+63: 101 ->unk
+64: 98 ->unk
+65: 98 ->unk
+66: 98 ->unk
+67: 101 ->unk
+68: 98 ->unk
+69: 98 ->unk
+70: 101 ->unk
+71: 98 ->unk
+72: 98 ->unk
+73: 98 ->unk
+74: 98 ->unk
+75: 98 ->unk
+76: 98 ->unk
+77: 98 ->unk
+78: 98 ->unk
+79: 98 ->unk
+80: 98 ->unk
+81: 98 ->unk
+82: 98 ->unk
+83: 98 ->unk
+84: 98 ->unk
+85: 98 ->unk
+86: 98 ->unk
+87: 95 ->unk
+88: 98 ->unk
+89: 98 ->unk
+90: 98 ->unk
+91: 95 ->unk
+92: 98 ->unk
+93: 98 ->unk
+94: 95 ->unk
+95: 98 ->unk
+96: 98 ->unk
+97: 98 ->unk
+98: 95 ->unk
+99: 98 ->unk
+100: 98 ->unk
+101: 98 ->unk
+102: 98 ->unk
+103: 98 ->unk
+104: 98 ->unk
+105: 98 ->unk
+106: 95 ->unk
+107: 98 ->unk
+108: 98 ->unk
+109: 98 ->unk
+110: 95 ->unk
+111: 98 ->unk
+112: 98 ->unk
+113: 95 ->unk
+114: 98 ->unk
+115: 98 ->unk
+116: 98 ->unk
+117: 98 ->unk
+118: 98 ->unk
+119: 98 ->unk
+120: 98 ->unk
+121: 95 ->unk
+122: 98 ->unk
+123: 98 ->unk
+124: 98 ->unk
+125: 98 ->unk
+126: 95 ->unk
+127: 98 ->unk
+128: 98 ->unk
+129: 98 ->unk
+130: 95 ->unk
+131: 98 ->unk
+132: 98 ->unk
+133: 98 ->unk
+134: 101 ->unk
+135: 95 ->unk
+136: 98 ->unk
+137: 101 ->unk
+138: 113 ->unk
+139: 26 ->unk
+Unknown source for data=[49, 34, 89, 89, 87, 87, 87, 89, 87, 89, 87, 89, 87, 89, 145, 66, 84, 98, 101, 95, 98, 98, 98, 101, 98, 95, 101, 98, 98, 98, 98, 98, 101, 98, 98, 98, 101, 98, 98, 101, 98, 98, 101, 98, 98, 98, 101, 101, 98, 98, 101, 98, 98, 101, 98, 98, 101, 98, 98, 101, 98, 98, 101, 98, 98, 98, 101, 98, 98, 101, 98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 98, 95, 98, 98, 98, 95, 98, 98, 95, 98, 98, 98, 95, 98, 98, 98, 98, 98, 98, 98, 95, 98, 98, 98, 95, 98, 98, 95, 98, 98, 98, 98, 98, 98, 98, 95, 98, 98, 98, 98, 95, 98, 98, 98, 95, 98, 98, 98, 101, 95, 98, 101, 113, 26]
+
+Data not logged - only logging data for..
+[]
+
+
+1: 223 ->unk
+2: 229 ->unk
+3: 226 ->unk
+4: 226 ->unk
+5: 229 ->unk
+6: 229 ->unk
+7: 229 ->unk
+8: 232 ->unk
+9: 229 ->unk
+10: 232 ->unk
+11: 229 ->unk
+12: 232 ->unk
+13: 232 ->unk
+14: 229 ->unk
+15: 232 ->unk
+16: 229 ->unk
+17: 232 ->unk
+18: 232 ->unk
+19: 229 ->unk
+20: 232 ->unk
+21: 232 ->unk
+22: 234 ->unk
+23: 232 ->unk
+24: 232 ->unk
+25: 232 ->unk
+26: 232 ->unk
+27: 232 ->unk
+28: 234 ->unk
+29: 232 ->unk
+30: 234 ->unk
+31: 232 ->unk
+32: 232 ->unk
+33: 232 ->unk
+34: 127 ->unk
+35: 5 ->unk
+Unknown source for data=[223, 229, 226, 226, 229, 229, 229, 232, 229, 232, 229, 232, 232, 229, 232, 229, 232, 232, 229, 232, 232, 234, 232, 232, 232, 232, 232, 234, 232, 234, 232, 232, 232, 127, 5]
+
+Data not logged - only logging data for..
+[]
+
+
+1: 72 ->unk
+2: 66 ->unk
+3: 66 ->unk
+4: 66 ->unk
+5: 66 ->unk
+6: 66 ->unk
+7: 63 ->unk
+8: 69 ->unk
+9: 66 ->unk
+10: 66 ->unk
+11: 66 ->unk
+12: 66 ->unk
+13: 69 ->unk
+14: 98 ->unk
+15: 98 ->unk
+16: 98 ->unk
+17: 98 ->unk
+18: 98 ->unk
+19: 98 ->unk
+20: 95 ->unk
+21: 110 ->unk
+22: 110 ->unk
+23: 110 ->unk
+24: 110 ->unk
+25: 107 ->unk
+26: 110 ->unk
+27: 110 ->unk
+28: 110 ->unk
+29: 107 ->unk
+30: 110 ->unk
+31: 110 ->unk
+32: 110 ->unk
+33: 110 ->unk
+34: 110 ->unk
+35: 110 ->unk
+36: 107 ->unk
+37: 107 ->unk
+38: 107 ->unk
+39: 110 ->unk
+40: 107 ->unk
+41: 104 ->unk
+42: 107 ->unk
+43: 107 ->unk
+44: 107 ->unk
+45: 107 ->unk
+46: 110 ->unk
+47: 142 ->unk
+48: 87 ->unk
+49: 2 ->unk
+Unknown source for data=[72, 66, 66, 66, 66, 66, 63, 69, 66, 66, 66, 66, 69, 98, 98, 98, 98, 98, 98, 95, 110, 110, 110, 110, 107, 110, 110, 110, 107, 110, 110, 110, 110, 110, 110, 107, 107, 107, 110, 107, 104, 107, 107, 107, 107, 110, 142, 87, 2]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+1: 159 ->unk
+2: 130 ->unk
+3: 130 ->unk
+4: 127 ->unk
+5: 130 ->unk
+6: 133 ->unk
+7: 133 ->unk
+8: 133 ->unk
+9: 130 ->unk
+10: 133 ->unk
+11: 130 ->unk
+12: 130 ->unk
+13: 127 ->unk
+14: 130 ->unk
+15: 133 ->unk
+16: 127 ->unk
+17: 130 ->unk
+18: 133 ->unk
+19: 130 ->unk
+20: 130 ->unk
+21: 133 ->unk
+22: 130 ->unk
+23: 130 ->unk
+24: 133 ->unk
+25: 133 ->unk
+26: 133 ->unk
+27: 133 ->unk
+28: 136 ->unk
+29: 133 ->unk
+30: 133 ->unk
+31: 133 ->unk
+32: 133 ->unk
+33: 133 ->unk
+34: 136 ->unk
+35: 133 ->unk
+36: 133 ->unk
+37: 133 ->unk
+38: 136 ->unk
+39: 136 ->unk
+40: 133 ->unk
+41: 136 ->unk
+42: 136 ->unk
+43: 136 ->unk
+44: 136 ->unk
+45: 136 ->unk
+46: 133 ->unk
+47: 133 ->unk
+48: 136 ->unk
+49: 133 ->unk
+50: 136 ->unk
+51: 133 ->unk
+52: 136 ->unk
+53: 136 ->unk
+54: 136 ->unk
+55: 136 ->unk
+56: 133 ->unk
+57: 136 ->unk
+58: 139 ->unk
+59: 136 ->unk
+60: 136 ->unk
+61: 136 ->unk
+62: 136 ->unk
+63: 136 ->unk
+64: 133 ->unk
+65: 133 ->unk
+66: 133 ->unk
+67: 130 ->unk
+68: 133 ->unk
+69: 130 ->unk
+70: 130 ->unk
+71: 133 ->unk
+72: 136 ->unk
+73: 133 ->unk
+74: 95 ->unk
+75: 5 ->unk
+Unknown source for data=[159, 130, 130, 127, 130, 133, 133, 133, 130, 133, 130, 130, 127, 130, 133, 127, 130, 133, 130, 130, 133, 130, 130, 133, 133, 133, 133, 136, 133, 133, 133, 133, 133, 136, 133, 133, 133, 136, 136, 133, 136, 136, 136, 136, 136, 133, 133, 136, 133, 136, 133, 136, 136, 136, 136, 133, 136, 139, 136, 136, 136, 136, 136, 133, 133, 133, 130, 133, 130, 130, 133, 136, 133, 95, 5]
+
+Data not logged - only logging data for..
+[]
+
+
+1: 214 ->unk
+2: 150 ->unk
+3: 133 ->unk
+4: 133 ->unk
+5: 130 ->unk
+6: 133 ->unk
+7: 133 ->unk
+8: 133 ->unk
+9: 133 ->unk
+10: 133 ->unk
+11: 133 ->unk
+12: 133 ->unk
+13: 136 ->unk
+14: 133 ->unk
+15: 136 ->unk
+16: 133 ->unk
+17: 136 ->unk
+18: 136 ->unk
+19: 136 ->unk
+20: 133 ->unk
+21: 133 ->unk
+22: 136 ->unk
+23: 133 ->unk
+24: 133 ->unk
+25: 133 ->unk
+26: 133 ->unk
+27: 136 ->unk
+28: 133 ->unk
+29: 133 ->unk
+30: 136 ->unk
+31: 133 ->unk
+32: 133 ->unk
+33: 133 ->unk
+34: 133 ->unk
+35: 133 ->unk
+36: 136 ->unk
+37: 133 ->unk
+38: 133 ->unk
+39: 133 ->unk
+40: 133 ->unk
+41: 133 ->unk
+42: 133 ->unk
+43: 133 ->unk
+44: 130 ->unk
+45: 133 ->unk
+46: 133 ->unk
+47: 133 ->unk
+48: 133 ->unk
+49: 133 ->unk
+50: 133 ->unk
+51: 133 ->unk
+52: 136 ->unk
+53: 133 ->unk
+54: 136 ->unk
+55: 136 ->unk
+56: 136 ->unk
+57: 133 ->unk
+58: 136 ->unk
+59: 136 ->unk
+60: 133 ->unk
+61: 133 ->unk
+62: 136 ->unk
+63: 136 ->unk
+64: 136 ->unk
+65: 136 ->unk
+66: 136 ->unk
+67: 136 ->unk
+68: 136 ->unk
+69: 136 ->unk
+70: 133 ->unk
+71: 136 ->unk
+72: 136 ->unk
+73: 136 ->unk
+74: 136 ->unk
+75: 136 ->unk
+76: 136 ->unk
+77: 136 ->unk
+78: 136 ->unk
+79: 136 ->unk
+80: 136 ->unk
+81: 133 ->unk
+82: 136 ->unk
+83: 136 ->unk
+84: 136 ->unk
+85: 133 ->unk
+86: 136 ->unk
+87: 136 ->unk
+88: 136 ->unk
+89: 133 ->unk
+90: 136 ->unk
+91: 133 ->unk
+92: 136 ->unk
+93: 136 ->unk
+94: 133 ->unk
+95: 136 ->unk
+96: 133 ->unk
+97: 133 ->unk
+98: 133 ->unk
+99: 136 ->unk
+100: 133 ->unk
+101: 130 ->unk
+102: 133 ->unk
+103: 136 ->unk
+104: 133 ->unk
+105: 133 ->unk
+106: 136 ->unk
+107: 133 ->unk
+108: 136 ->unk
+109: 136 ->unk
+110: 136 ->unk
+111: 92 ->unk
+112: 43 ->unk
+113: 8 ->unk
+Unknown source for data=[214, 150, 133, 133, 130, 133, 133, 133, 133, 133, 133, 133, 136, 133, 136, 133, 136, 136, 136, 133, 133, 136, 133, 133, 133, 133, 136, 133, 133, 136, 133, 133, 133, 133, 133, 136, 133, 133, 133, 133, 133, 133, 133, 130, 133, 133, 133, 133, 133, 133, 133, 136, 133, 136, 136, 136, 133, 136, 136, 133, 133, 136, 136, 136, 136, 136, 136, 136, 136, 133, 136, 136, 136, 136, 136, 136, 136, 136, 136, 136, 133, 136, 136, 136, 133, 136, 136, 136, 133, 136, 133, 136, 136, 133, 136, 133, 133, 133, 136, 133, 130, 133, 136, 133, 133, 136, 133, 136, 136, 136, 92, 43, 8]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Data from ensuite PIR
+1: 145 ->ensuite
+2: 145 ->ensuite
+3: 145 ->ensuite
+4: 147 ->ensuite
+5: 145 ->ensuite
+6: 142 ->ensuite
+7: 34 ->ensuite
+8: 2 ->ensuite
+<event>
+  <location>ensuite</location>
+  <start>21:9:56</start>
+  <volume>905</volume>
+  <samples>145,145,145,147,145,142,34,2</samples>
+  <knn>Wash basin</knn>
+  <svm>Wash basin</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+1: 159 ->ensuite
+Data from ensuite PIR
+2: 142 ->ensuite
+3: 17 ->ensuite
+<event>
+  <location>ensuite</location>
+  <start>21:10:26</start>
+  <volume>318</volume>
+  <samples>159,142,17</samples>
+  <knn>Wash basin</knn>
+  <svm>Wash basin</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from ensuite PIR
+Data from ensuite PIR
+1: 153 ->ensuite
+2: 87 ->ensuite
+3: 2 ->ensuite
+<event>
+  <location>ensuite</location>
+  <start>21:10:38</start>
+  <volume>242</volume>
+  <samples>153,87,2</samples>
+  <knn>Wash basin</knn>
+  <svm>Wash basin</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from ensuite PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from shower_room PIR
+1: 118 ->shower_room
+2: 116 ->shower_room
+3: 118 ->shower_room
+4: 118 ->shower_room
+5: 147 ->shower_room
+6: 171 ->shower_room
+7: 174 ->shower_room
+8: 174 ->shower_room
+9: 174 ->shower_room
+10: 174 ->shower_room
+11: 165 ->shower_room
+12: 121 ->shower_room
+13: 121 ->shower_room
+14: 124 ->shower_room
+15: 121 ->shower_room
+16: 124 ->shower_room
+17: 121 ->shower_room
+Data from shower_room PIR
+18: 121 ->shower_room
+19: 124 ->shower_room
+20: 121 ->shower_room
+Data from shower_room PIR
+21: 118 ->shower_room
+22: 121 ->shower_room
+23: 118 ->shower_room
+24: 101 ->shower_room
+25: 14 ->shower_room
+<event>
+  <location>shower_room</location>
+  <start>21:23:14</start>
+  <volume>3219</volume>
+  <samples>118,116,118,118,147,171,174,174,174,174,165,121,121,124,121,124,121,121,124,121,118,121,118,101,14</samples>
+  <knn>Wash basin</knn>
+  <svm>Toilet + Wash basin</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from shower_room PIR
+1: 116 ->shower_room
+2: 116 ->shower_room
+3: 116 ->shower_room
+4: 118 ->shower_room
+5: 118 ->shower_room
+Data from shower_room PIR
+6: 118 ->shower_room
+7: 118 ->shower_room
+8: 116 ->shower_room
+9: 118 ->shower_room
+10: 118 ->shower_room
+11: 142 ->shower_room
+Data from shower_room PIR
+12: 174 ->shower_room
+13: 174 ->shower_room
+14: 174 ->shower_room
+15: 174 ->shower_room
+16: 176 ->shower_room
+17: 174 ->shower_room
+Data from shower_room PIR
+18: 176 ->shower_room
+19: 176 ->shower_room
+20: 174 ->shower_room
+21: 174 ->shower_room
+Data from shower_room PIR
+22: 176 ->shower_room
+23: 174 ->shower_room
+24: 174 ->shower_room
+Data from shower_room PIR
+25: 162 ->shower_room
+26: 40 ->shower_room
+<event>
+  <location>shower_room</location>
+  <start>21:48:26</start>
+  <volume>3786</volume>
+  <samples>116,116,116,118,118,118,118,116,118,118,142,174,174,174,174,176,174,176,176,174,174,176,174,174,162,40</s/usr/lib/pymodules/python2.7/sklearn/neighbors/classification.py:129: NeighborsWarning: kneighbors: neighbor k+1 and neighbor k have the same distance: results will be dependent on data order.
+  neigh_dist, neigh_ind = self.kneighbors(X)
+amples>
+  <knn>Shower</knn>
+  <svm>Shower</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from shower_room PIR
+1: 165 ->unk
+Data from kitchen PIR
+2: 168 ->kitchen
+3: 168 ->kitchen
+4: 171 ->kitchen
+5: 171 ->kitchen
+6: 171 ->kitchen
+Data from kitchen PIR
+7: 171 ->kitchen
+8: 171 ->kitchen
+9: 174 ->kitchen
+10: 171 ->kitchen
+11: 174 ->kitchen
+12: 139 ->kitchen
+13: 116 ->kitchen
+14: 11 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>22:27:0</start>
+  <volume>2141</volume>
+  <samples>165,168,168,171,171,171,171,171,174,171,174,139,116,11</samples>
+  <knn>Sink</knn>
+  <svm>Sink</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from shower_room PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 116 ->kitchen
+2: 116 ->kitchen
+3: 113 ->kitchen
+4: 116 ->kitchen
+5: 116 ->kitchen
+6: 116 ->kitchen
+7: 153 ->kitchen
+8: 171 ->kitchen
+9: 171 ->kitchen
+10: 168 ->kitchen
+11: 171 ->kitchen
+12: 174 ->kitchen
+13: 171 ->kitchen
+14: 136 ->kitchen
+Data from shower_room PIR
+15: 118 ->kitchen
+16: 118 ->kitchen
+17: 121 ->kitchen
+Data from kitchen PIR
+18: 118 ->kitchen
+19: 89 ->kitchen
+20: 8 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>22:30:54</start>
+  <volume>2580</volume>
+  <samples>116,116,113,116,116,116,153,171,171,168,171,174,171,136,118,118,121,118,89,8</samples>
+  <knn>Sink</knn>
+  <svm>Sink</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Data from shower_room PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from kitchen PIR
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Data from shower_room PIR
+Data from kitchen PIR
+Data from shower_room PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 23 ->kitchen
+2: 23 ->kitchen
+3: 23 ->kitchen
+4: 23 ->kitchen
+5: 23 ->kitchen
+6: 23 ->kitchen
+Data from shower_room PIR
+7: 23 ->shower_room
+8: 23 ->shower_room
+Data from shower_room PIR
+9: 17 ->shower_room
+10: 2 ->shower_room
+<event>
+  <location>shower_room</location>
+  <start>22:31:27</start>
+  <volume>203</volume>
+  <samples>23,23,23,23,23,23,23,23,17,2</samples>
+  <knn>Wash basin</knn>
+  <svm>Wash basin</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from shower_room PIR
+Data from kitchen PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from shower_room PIR
+Data from shower_room PIR
+Data from kitchen PIR
+1: 43 ->kitchen
+Data from kitchen PIR
+2: 43 ->kitchen
+3: 43 ->kitchen
+Data from shower_room PIR
+4: 43 ->shower_room
+5: 43 ->shower_room
+6: 43 ->shower_room
+Data from kitchen PIR
+7: 46 ->kitchen
+8: 43 ->kitchen
+Data from kitchen PIR
+9: 43 ->kitchen
+10: 43 ->kitchen
+11: 46 ->kitchen
+12: 43 ->kitchen
+13: 43 ->kitchen
+14: 43 ->kitchen
+15: 46 ->kitchen
+16: 43 ->kitchen
+Data from kitchen PIR
+17: 43 ->kitchen
+18: 43 ->kitchen
+Data from kitchen PIR
+19: 43 ->kitchen
+20: 46 ->kitchen
+Data from shower_room PIR
+21: 43 ->kitchen
+22: 46 ->kitchen
+Data from kitchen PIR
+23: 43 ->kitchen
+24: 43 ->kitchen
+25: 46 ->kitchen
+26: 43 ->kitchen
+Data from shower_room PIR
+27: 43 ->kitchen
+28: 46 ->kitchen
+29: 43 ->kitchen
+30: 43 ->kitchen
+Data from kitchen PIR
+31: 46 ->kitchen
+32: 43 ->kitchen
+Data from kitchen PIR
+33: 43 ->kitchen
+Data fr/usr/lib/pymodules/python2.7/sklearn/neighbors/classification.py:129: NeighborsWarning: kneighbors: neighbor k+1 and neighbor k have the same distance: results will be dependent on data order.
+  neigh_dist, neigh_ind = self.kneighbors(X)
+/usr/lib/pymodules/python2.7/sklearn/neighbors/classification.py:129: NeighborsWarning: kneighbors: neighbor k+1 and neighbor k have the same distance: results will be dependent on data order.
+  neigh_dist, neigh_ind = self.kneighbors(X)
+om shower_room PIR
+34: 46 ->kitchen
+35: 43 ->kitchen
+36: 43 ->kitchen
+37: 46 ->kitchen
+38: 43 ->kitchen
+39: 43 ->kitchen
+40: 46 ->kitchen
+41: 37 ->kitchen
+42: 2 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>22:32:43</start>
+  <volume>1792</volume>
+  <samples>43,43,43,43,43,43,46,43,43,43,46,43,43,43,46,43,43,43,43,46,43,46,43,43,46,43,43,46,43,43,46,43,43,46,43,43,46,43,43,46,37,2</samples>
+  <knn>Butler</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+1: 20 ->unk
+2: 23 ->unk
+3: 23 ->unk
+4: 23 ->unk
+5: 40 ->unk
+Data from ensuite PIR
+6: 43 ->ensuite
+7: 40 ->ensuite
+Data from ensuite PIR
+8: 43 ->ensuite
+9: 43 ->ensuite
+Data from ensuite PIR
+10: 40 ->ensuite
+11: 43 ->ensuite
+12: 43 ->ensuite
+13: 40 ->ensuite
+14: 43 ->ensuite
+Data from ensuite PIR
+15: 43 ->ensuite
+16: 40 ->ensuite
+Data from ensuite PIR
+17: 43 ->ensuite
+18: 40 ->ensuite
+19: 43 ->ensuite
+20: 43 ->ensuite
+21: 40 ->ensuite
+22: 43 ->ensuite
+23: 40 ->ensuite
+24: 43 ->ensuite
+25: 40 ->ensuite
+26: 40 ->ensuite
+27: 43 ->ensuite
+28: 40 ->ensuite
+29: 43 ->ensuite
+30: 40 ->ensuite
+31: 43 ->ensuite
+32: 40 ->ensuite
+Data from ensuite PIR
+33: 43 ->ensuite
+34: 40 ->ensuite
+35: 43 ->ensuite
+36: 43 ->ensuite
+37: 40 ->ensuite
+38: 43 ->ensuite
+39: 40 ->ensuite
+40: 43 ->ensuite
+41: 40 ->ensuite
+42: 43 ->ensuite
+Data from ensuite PIR
+43: 43 ->ensuite
+44: 40 ->ensuite
+45: 43 ->ensuite
+46: 43 ->ensuite
+47: 40 ->ensuite
+48: 43 ->ensuite
+49: 40 ->ensuite
+50: 17 ->ensuite
+<event>
+  <location>ensuite</location>
+  <start>22:48:42</start>
+  <volume>1981</volume>
+  <samples>20,23,23,23,40,43,40,43,43,40,43,43,40,43,43,40,43,40,43,43,40,43,40,43,40,40,43,40,43,40,43,40,43,40,43,43,40,43,40,43,40,43,43,40,43,43,40,43,40,17</samples>
+  <knn>Wash basin</knn>
+  <svm>Wash basin</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+1: 60 ->ensuite
+2: 60 ->ensuite
+3: 58 ->ensuite
+4: 60 ->ensuite
+5: 60 ->ensuite
+6: 58 ->ensuite
+Data from ensuite PIR
+7: 60 ->ensuite
+8: 60 ->ensuite
+9: 58 ->ensuite
+10: 60 ->ensuite
+11: 40 ->ensuite
+Data from ensuite PIR
+12: 2 ->ensuite
+<event>
+  <location>ensuite</location>
+  <start>22:49:15</start>
+  <volume>636</volume>
+  <samples>60,60,58,60,60,58,60,60,58,60,40,2</samples>
+  <knn>Wash basin</knn>
+  <svm>Wash basin</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+1: 31 ->ensuite
+2: 31 ->ensuite
+3: 31 ->ensuite
+4: 31 ->ensuite
+5: 31 ->ensuite
+6: 31 ->ensuite
+7: 34 ->ensuite
+8: 31 ->ensuite
+9: 31 ->ensuite
+Data from ensuite PIR
+10: 31 ->ensuite
+11: 31 ->ensuite
+12: 31 ->ensuite
+13: 31 ->ensuite
+14: 34 ->ensuite
+15: 31 ->ensuite
+16: 31 ->ensuite
+17: 31 ->ensuite
+18: 31 ->ensuite
+19: 34 ->ensuite
+20: 31 ->ensuite
+21: 31 ->ensuite
+Data from ensuite PIR
+22: 31 ->ensuite
+23: 34 ->ensuite
+24: 31 ->ensuite
+25: 31 ->ensuite
+Data from ensuite PIR
+26: 31 ->ensuite
+27: 34 ->ensuite
+Data from ensuite PIR
+28: 31 ->ensuite
+29: 31 ->ensuite
+30: 31 ->ensuite
+31: 31 ->ensuite
+32: 34 ->ensuite
+33: 31 ->ensuite
+Data from ensuite PIR
+34: 31 ->ensuite
+35: 31 ->ensuite
+Data from ensuite PIR
+36: 31 ->ensuite
+37: 26 ->ensuite
+<event>
+  <location>ensuite</location>
+  <start>22:50:11</start>
+  <volume>1160</volume>
+  <samples>31,31,31,31,31,31,34,31,31,31,31,31,31,34,31,31,31,31,34,31,31,31,34,31,31,31,34,31,31,31,31,34,31,31,31,31,26</samples>
+  <knn>Wash basin</knn>
+  <svm>Wash basin</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 121 ->kitchen
+2: 124 ->kitchen
+3: 124 ->kitchen
+Data from kitchen PIR
+4: 43 ->kitchen
+5: 2 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>23:45:31</start>
+  <volume>414</volume>
+  <samples>121,124,124,43,2</samples>
+  <knn>Sink</knn>
+  <svm>Sink</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+1: 118 ->ensuite
+2: 136 ->ensuite
+3: 136 ->ensuite
+4: 139 ->ensuite
+5: 72 ->ensuite
+6: 2 ->ensuite
+<event>
+  <location>ensuite</location>
+  <start>23:49:53</start>
+  <volume>603</volume>
+  <samples>118,136,136,139,72,2</samples>
+  <knn>Wash basin</knn>
+  <svm>Wash basin</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 7/4/2013 writing to file..
+Data from ensuite PIR
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Data from ensuite PIR
+1: 176 ->ensuite
+2: 182 ->ensuite
+3: 188 ->ensuite
+4: 188 ->ensuite
+5: 188 ->ensuite
+6: 203 ->ensuite
+7: 214 ->ensuite
+8: 214 ->ensuite
+9: 217 ->ensuite
+10: 220 ->ensuite
+11: 223 ->ensuite
+12: 223 ->ensuite
+13: 229 ->ensuite
+14: 226 ->ensuite
+15: 226 ->ensuite
+16: 226 ->ensuite
+17: 223 ->ensuite
+18: 226 ->ensuite
+19: 223 ->ensuite
+20: 223 ->ensuite
+21: 220 ->ensuite
+Data from ensuite PIR
+22: 223 ->ensuite
+23: 220 ->ensuite
+24: 223 ->ensuite
+25: 223 ->ensuite
+26: 220 ->ensuite
+27: 223 ->ensuite
+28: 220 ->ensuite
+29: 223 ->ensuite
+30: 220 ->ensuite
+31: 220 ->ensuite
+32: 220 ->ensuite
+33: 220 ->ensuite
+34: 217 ->ensuite
+35: 217 ->ensuite
+36: 217 ->ensuite
+37: 217 ->ensuite
+38: 217 ->ensuite
+39: 217 ->ensuite
+40: 220 ->ensuite
+41: 217 ->ensuite
+42: 217 ->ensuite
+43: 217 ->ensuite
+44: 214 ->ensuite
+45: 217 ->ensuite
+46: 214 ->ensuite
+47: 217 ->ensuite
+48: 217 ->ensuite
+Data from ensuite PIR
+49: 214 ->ensuite
+50: 217 ->ensuite
+51: 214 ->ensuite
+Data from ensuite PIR
+52: 217 ->ensuite
+53: 214 ->ensuite
+54: 217 ->ensuite
+55: 217 ->ensuite
+56: 214 ->ensuite
+57: 217 ->ensuite
+58: 214 ->ensuite
+59: 217 ->ensuite
+60: 214 ->ensuite
+Data from ensuite PIR
+61: 217 ->ensuite
+62: 214 ->ensuite
+63: 217 ->ensuite
+64: 217 ->ensuite
+65: 217 ->ensuite
+66: 214 ->ensuite
+67: 217 ->ensuite
+68: 214 ->ensuite
+69: 217 ->ensuite
+70: 217 ->ensuite
+71: 214 ->ensuite
+72: 217 ->ensuite
+73: 217 ->ensuite
+74: 217 ->ensuite
+Data from ensuite PIR
+75: 217 ->ensuite
+76: 220 ->ensuite
+77: 214 ->ensuite
+78: 223 ->ensuite
+79: 220 ->ensuite
+80: 220 ->ensuite
+81: 220 ->ensuite
+82: 223 ->ensuite
+83: 220 ->ensuite
+84: 223 ->ensuite
+85: 220 ->ensuite
+86: 220 ->ensuite
+87: 220 ->ensuite
+Data from ensuite PIR
+88: 223 ->ensuite
+89: 220 ->ensuite
+90: 223 ->ensuite
+91: 220 ->ensuite
+Data from ensuite PIR
+92: 223 ->ensuite
+93: 220 ->ensuite
+94: 223 ->ensuite
+95: 223 ->ensuite
+96: 223 ->ensuite
+97: 220 ->ensuite
+98: 223 ->ensuite
+99: 223 ->ensuite
+100: 223 ->ensuite
+101: 223 ->ensuite
+102: 220 ->ensuite
+103: 223 ->ensuite
+104: 223 ->ensuite
+105: 220 ->ensuite
+106: 223 ->ensuite
+107: 226 ->ensuite
+108: 220 ->ensuite
+109: 226 ->ensuite
+110: 220 ->ensuite
+111: 223 ->ensuite
+112: 220 ->ensuite
+113: 223 ->ensuite
+114: 220 ->ensuite
+115: 223 ->ensuite
+116: 223 ->ensuite
+117: 223 ->ensuite
+118: 220 ->ensuite
+119: 223 ->ensuite
+120: 223 ->ensuite
+121: 220 ->ensuite
+122: 223 ->ensuite
+123: 220 ->ensuite
+124: 223 ->ensuite
+125: 220 ->ensuite
+Data from ensuite PIR
+126: 220 ->ensuite
+127: 223 ->ensuite
+Data from ensuite PIR
+128: 220 ->ensuite
+129: 220 ->ensuite
+Data from ensuite PIR
+130: 223 ->ensuite
+131: 220 ->ensuite
+132: 220 ->ensuite
+133: 220 ->ensuite
+134: 220 ->ensuite
+Data from ensuite PIR
+135: 223 ->ensuite
+136: 220 ->ensuite
+Data from ensuite PIR
+137: 220 ->ensuite
+138: 223 ->ensuite
+Data from ensuite PIR
+139: 220 ->ensuite
+140: 220 ->ensuite
+141: 223 ->ensuite
+142: 220 ->ensuite
+143: 220 ->ensuite
+Data from ensuite PIR
+144: 220 ->ensuite
+145: 220 ->ensuite
+146: 220 ->ensuite
+Data from ensuite PIR
+147: 223 ->ensuite
+148: 220 ->ensuite
+149: 220 ->ensuite
+Data from ensuite PIR
+150: 223 ->ensuite
+151: 220 ->ensuite
+Data from ensuite PIR
+152: 220 ->ensuite
+153: 220 ->ensuite
+154: 220 ->ensuite
+155: 223 ->ensuite
+156: 220 ->ensuite
+157: 223 ->ensuite
+158: 220 ->ensuite
+159: 223 ->ensuite
+Data from ensuite PIR
+160: 220 ->ensuite
+161: 223 ->ensuite
+162: 220 ->ensuite
+Data from ensuite PIR
+163: 223 ->ensuite
+164: 223 ->ensuite
+165: 223 ->ensuite
+166: 220 ->ensuite
+167: 223 ->ensuite
+168: 220 ->ensuite
+Data from ensuite PIR
+169: 223 ->ensuite
+170: 220 ->ensuite
+Data from ensuite PIR
+171: 223 ->ensuite
+172: 220 ->ensuite
+Data from ensuite PIR
+173: 223 ->ensuite
+174: 220 ->ensuite
+175: 223 ->ensuite
+Data from ensuite PIR
+176: 220 ->ensuite
+177: 220 ->ensuite
+178: 220 ->ensuite
+179: 223 ->ensuite
+Data from ensuite PIR
+180: 220 ->ensuite
+181: 223 ->ensuite
+182: 217 ->ensuite
+183: 223 ->ensuite
+184: 220 ->ensuite
+Data from ensuite PIR
+185: 220 ->ensuite
+186: 220 ->ensuite
+187: 223 ->ensuite
+188: 220 ->ensuite
+189: 220 ->ensuite
+190: 220 ->ensuite
+191: 220 ->ensuite
+192: 220 ->ensuite
+193: 220 ->ensuite
+Data from ensuite PIR
+194: 220 ->ensuite
+195: 220 ->ensuite
+196: 220 ->ensuite
+197: 220 ->ensuite
+Data from ensuite PIR
+198: 220 ->ensuite
+199: 220 ->ensuite
+200: 220 ->ensuite
+Data from ensuite PIR
+201: 220 ->ensuite
+202: 220 ->ensuite
+203: 217 ->ensuite
+204: 220 ->ensuite
+205: 220 ->ensuite
+Data from ensuite PIR
+206: 223 ->ensuite
+207: 220 ->ensuite
+208: 220 ->ensuite
+209: 220 ->ensuite
+210: 220 ->ensuite
+211: 220 ->ensuite
+Data from ensuite PIR
+212: 220 ->ensuite
+213: 220 ->ensuite
+214: 217 ->ensuite
+215: 220 ->ensuite
+Data from ensuite PIR
+216: 220 ->ensuite
+217: 220 ->ensuite
+218: 220 ->ensuite
+219: 220 ->ensuite
+220: 220 ->ensuite
+221: 220 ->ensuite
+222: 220 ->ensuite
+223: 220 ->ensuite
+Data from ensuite PIR
+224: 220 ->ensuite
+Data from ensuite PIR
+225: 217 ->ensuite
+226: 220 ->ensuite
+227: 220 ->ensuite
+228: 220 ->ensuite
+229: 217 ->ensuite
+230: 220 ->ensuite
+Data from ensuite PIR
+231: 220 ->ensuite
+232: 220 ->ensuite
+233: 220 ->ensuite
+234: 220 ->ensuite
+235: 220 ->ensuite
+236: 220 ->ensuite
+Data from ensuite PIR
+237: 220 ->ensuite
+238: 220 ->ensuite
+239: 220 ->ensuite
+240: 220 ->ensuite
+Data from ensuite PIR
+241: 217 ->ensuite
+242: 220 ->ensuite
+243: 220 ->ensuite
+244: 220 ->ensuite
+245: 220 ->ensuite
+246: 217 ->ensuite
+247: 220 ->ensuite
+248: 220 ->ensuite
+249: 220 ->ensuite
+Data from ensuite PIR
+250: 220 ->ensuite
+251: 220 ->ensuite
+Data from ensuite PIR
+252: 217 ->ensuite
+253: 220 ->ensuite
+254: 220 ->ensuite
+255: 217 ->ensuite
+256: 220 ->ensuite
+257: 217 ->ensuite
+Data from ensuite PIR
+258: 217 ->ensuite
+259: 220 ->ensuite
+Data from ensuite PIR
+260: 217 ->ensuite
+261: 217 ->ensuite
+262: 220 ->ensuite
+263: 217 ->ensuite
+264: 217 ->ensuite
+265: 220 ->ensuite
+266: 217 ->ensuite
+267: 217 ->ensuite
+268: 217 ->ensuite
+269: 220 ->ensuite
+270: 217 ->ensuite
+271: 217 ->ensuite
+Data from ensuite PIR
+272: 217 ->ensuite
+273: 220 ->ensuite
+274: 217 ->ensuite
+275: 217 ->ensuite
+276: 217 ->ensuite
+277: 217 ->ensuite
+278: 217 ->ensuite
+279: 217 ->ensuite
+280: 220 ->ensuite
+Data from ensuite PIR
+281: 217 ->ensuite
+282: 214 ->ensuite
+283: 220 ->ensuite
+284: 217 ->ensuite
+285: 217 ->ensuite
+Data from ensuite PIR
+286: 220 ->ensuite
+287: 217 ->ensuite
+288: 217 ->ensuite
+289: 220 ->ensuite
+290: 220 ->ensuite
+291: 217 ->ensuite
+292: 220 ->ensuite
+293: 217 ->ensuite
+294: 220 ->ensuite
+Data from ensuite PIR
+295: 217 ->ensuite
+296: 220 ->ensuite
+297: 217 ->ensuite
+298: 220 ->ensuite
+Data from ensuite PIR
+299: 220 ->ensuite
+300: 217 ->ensuite
+301: 220 ->ensuite
+302: 220 ->ensuite
+303: 220 ->ensuite
+304: 220 ->ensuite
+305: 220 ->ensuite
+Data from ensuite PIR
+306: 220 ->ensuite
+307: 220 ->ensuite
+308: 220 ->ensuite
+309: 220 ->ensuite
+Data from ensuite PIR
+310: 223 ->ensuite
+311: 220 ->ensuite
+312: 223 ->ensuite
+313: 220 ->ensuite
+314: 220 ->ensuite
+315: 223 ->ensuite
+Data from ensuite PIR
+316: 223 ->ensuite
+317: 220 ->ensuite
+318: 220 ->ensuite
+Data from ensuite PIR
+319: 223 ->ensuite
+320: 223 ->ensuite
+Data from ensuite PIR
+321: 220 ->ensuite
+322: 223 ->ensuite
+Data from ensuite PIR
+323: 220 ->ensuite
+324: 220 ->ensuite
+325: 220 ->ensuite
+326: 223 ->ensuite
+327: 220 ->ensuite
+328: 220 ->ensuite
+329: 223 ->ensuite
+330: 220 ->ensuite
+Data from ensuite PIR
+Data from ensuite PIR
+331: 223 ->ensuite
+332: 223 ->ensuite
+333: 223 ->ensuite
+334: 220 ->ensuite
+335: 223 ->ensuite
+Data from ensuite PIR
+336: 223 ->ensuite
+337: 223 ->ensuite
+338: 220 ->ensuite
+339: 220 ->ensuite
+340: 220 ->ensuite
+341: 223 ->ensuite
+342: 220 ->ensuite
+343: 220 ->ensuite
+344: 220 ->ensuite
+345: 220 ->ensuite
+346: 223 ->ensuite
+347: 220 ->ensuite
+Data from ensuite PIR
+348: 220 ->ensuite
+349: 223 ->ensuite
+350: 220 ->ensuite
+351: 220 ->ensuite
+352: 220 ->ensuite
+353: 220 ->ensuite
+354: 220 ->ensuite
+355: 220 ->ensuite
+Data from ensuite PIR
+356: 217 ->ensuite
+357: 220 ->ensuite
+358: 220 ->ensuite
+359: 217 ->ensuite
+360: 220 ->ensuite
+361: 220 ->ensuite
+362: 220 ->ensuite
+363: 220 ->ensuite
+364: 217 ->ensuite
+Data from ensuite PIR
+365: 217 ->ensuite
+366: 220 ->ensuite
+367: 217 ->ensuite
+368: 217 ->ensuite
+369: 217 ->ensuite
+370: 217 ->ensuite
+371: 217 ->ensuite
+372: 217 ->ensuite
+373: 217 ->ensuite
+374: 217 ->ensuite
+Data from ensuite PIR
+375: 214 ->ensuite
+376: 214 ->ensuite
+377: 214 ->ensuite
+378: 214 ->ensuite
+379: 214 ->ensuite
+Data from ensuite PIR
+380: 217 ->ensuite
+381: 214 ->ensuite
+382: 217 ->ensuite
+Data from ensuite PIR
+383: 214 ->ensuite
+384: 214 ->ensuite
+Data from ensuite PIR
+385: 217 ->ensuite
+386: 214 ->ensuite
+387: 217 ->ensuite
+388: 214 ->ensuite
+389: 217 ->ensuite
+390: 217 ->ensuite
+391: 214 ->ensuite
+Data from ensuite PIR
+392: 217 ->ensuite
+393: 217 ->ensuite
+394: 214 ->ensuite
+395: 214 ->ensuite
+396: 217 ->ensuite
+397: 214 ->ensuite
+398: 217 ->ensuite
+399: 214 ->ensuite
+400: 217 ->ensuite
+401: 214 ->ensuite
+402: 217 ->ensuite
+403: 214 ->ensuite
+404: 217 ->ensuite
+405: 214 ->ensuite
+406: 217 ->ensuite
+407: 217 ->ensuite
+Data from ensuite PIR
+408: 217 ->ensuite
+409: 217 ->ensuite
+Data from ensuite PIR
+410: 217 ->ensuite
+411: 217 ->ensuite
+412: 220 ->ensuite
+413: 217 ->ensuite
+414: 220 ->ensuite
+415: 217 ->ensuite
+416: 220 ->ensuite
+417: 220 ->ensuite
+418: 220 ->ensuite
+419: 220 ->ensuite
+420: 220 ->ensuite
+Data from ensuite PIR
+421: 220 ->ensuite
+422: 220 ->ensuite
+423: 220 ->ensuite
+424: 217 ->ensuite
+425: 223 ->ensuite
+426: 220 ->ensuite
+427: 220 ->ensuite
+428: 220 ->ensuite
+429: 220 ->ensuite
+Data from ensuite PIR
+430: 223 ->ensuite
+431: 220 ->ensuite
+432: 220 ->ensuite
+Data from ensuite PIR
+433: 220 ->ensuite
+434: 223 ->ensuite
+435: 220 ->ensuite
+436: 142 ->ensuite
+437: 8 ->ensuite
+Data from ensuite PIR
+<event>
+  <location>ensuite</location>
+  <start>6:40:23</start>
+  <volume>95433</volume>
+  <samples>176,182,188,188,188,203,214,214,217,220,223,223,229,226,226,226,223,226,223,223,220,223,220,223,223,220,223,220,223,220,220,220,220,217,217,217,217,217,217,220,217,217,217,214,217,214,217,217,214,217,214,217,214,217,217,214,217,214,217,214,217,214,217,217,217,214,217,214,217,217,214,217,217,217,217,220,214,223,220,220,220,223,220,223,220,220,220,223,220,223,220,223,220,223,223,223,220,223,223,223,223,220,223,223,220,223,226,220,226,220,223,220,223,220,223,223,223,220,223,223,220,223,220,223,220,220,223,220,220,223,220,220,220,220,223,220,220,223,220,220,223,220,220,220,220,220,223,220,220,223,220,220,220,220,223,220,223,220,223,220,223,220,223,223,223,220,223,220,223,220,223,220,223,220,223,220,220,220,223,220,223,217,223,220,220,220,223,220,220,220,220,220,220,220,220,220,220,220,220,220,220,220,217,220,220,223,220,220,220,220,220,220,220,217,220,220,220,220,220,220,220,220,220,220,217,220,220,220,217,220,220,220,220,220,220,220,220,220,220,220,217,220,220,220,220,217,220,220,220,220,220,217,220,220,217,220,217,217,220,217,217,220,217,217,220,217,217,217,220,217,217,217,220,217,217,217,217,217,217,220,217,214,220,217,217,220,217,217,220,220,217,220,217,220,217,220,217,220,220,217,220,220,220,220,220,220,220,220,220,223,220,223,220,220,223,223,220,220,223,223,220,223,220,220,220,223,220,220,223,220,223,223,223,220,223,223,223,220,220,220,223,220,220,220,220,223,220,220,223,220,220,220,220,220,220,217,220,220,217,220,220,220,220,217,217,220,217,217,217,217,217,217,217,217,214,214,214,214,214,217,214,217,214,214,217,214,217,214,217,217,214,217,217,214,214,217,214,217,214,217,214,217,214,217,214,217,217,217,217,217,217,220,217,220,217,220,220,220,220,220,220,220,220,217,223,220,220,220,220,223,220,220,220,223,220,142,8</samples>
+  <knn>Shower</knn>
+  <svm>Shower</svm>
+  <truth>unk</truth>
+</event>
+
+file does not exist, creating file..
+
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+1: 8 ->ensuite
+2: 11 ->ensuite
+3: 8 ->ensuite
+4: 11 ->ensuite
+5: 8 ->ensuite
+6: 11 ->ensuite
+7: 8 ->ensuite
+8: 11 ->ensuite
+9: 11 ->ensuite
+10: 8 ->ensuite
+Data from ensuite PIR
+11: 11 ->ensuite
+12: 11 ->ensuite
+13: 8 ->ensuite
+14: 11 ->ensuite
+15: 11 ->ensuite
+16: 11 ->ensuite
+17: 8 ->ensuite
+18: 11 ->ensuite
+Data from ensuite PIR
+19: 11 ->ensuite
+20: 11 ->ensuite
+21: 8 ->ensuite
+22: 11 ->ensuite
+Data from ensuite PIR
+23: 11 ->ensuite
+24: 11 ->ensuite
+25: 8 ->ensuite
+26: 11 ->ensuite
+27: 11 ->ensuite
+28: 11 ->ensuite
+29: 11 ->ensuite
+30: 8 ->ensuite
+31: 11 ->ensuite
+32: 11 ->ensuite
+33: 11 ->ensuite
+34: 11 ->ensuite
+35: 11 ->ensuite
+36: 8 ->ensuite
+37: 11 ->ensuite
+38: 11 ->ensuite
+39: 11 ->ensuite
+40: 11 ->ensuite
+41: 11 ->ensuite
+Data from ensuite PIR
+42: 11 ->ensuite
+43: 11 ->ensuite
+44: 11 ->ensuite
+45: 11 ->ensuite
+46: 8 ->ensuite
+47: 11 ->ensuite
+48: 11 ->ensuite
+49: 11 ->ensuite
+50: 11 ->ensuite
+51: 11 ->ensuite
+52: 11 ->ensuite
+53: 11 ->ensuite
+54: 11 ->ensuite
+55: 20 ->ensuite
+56: 34 ->ensuite
+57: 37 ->ensuite
+Data from ensuite PIR
+58: 34 ->ensuite
+59: 37 ->ensuite
+60: 34 ->ensuite
+61: 37 ->ensuite
+62: 34 ->ensuite
+63: 37 ->ensuite
+64: 34 ->ensuite
+65: 37 ->ensuite
+66: 37 ->ensuite
+67: 34 ->ensuite
+68: 37 ->ensuite
+69: 34 ->ensuite
+70: 37 ->ensuite
+71: 34 ->ensuite
+72: 37 ->ensuite
+73: 34 ->ensuite
+74: 37 ->ensuite
+75: 37 ->ensuite
+76: 34 ->ensuite
+77: 37 ->ensuite
+78: 34 ->ensuite
+Data from ensuite PIR
+79: 14 ->ensuite
+<event>
+  <location>ensuite</location>
+  <start>6:43:8</start>
+  <volume>1410</volume>
+  <samples>8,11,8,11,8,11,8,11,11,8,11,11,8,11,11,11,8,11,11,11,8,11,11,11,8,11,11,11,11,8,11,11,11,11,11,8,11,11,11,11,11,11,11,11,11,8,11,11,11,11,11,11,11,11,20,34,37,34,37,34,37,34,37,34,37,37,34,37,34,37,34,37,34,37,37,34,37,34,14</samples>
+  <knn>Wash basin</knn>
+  <svm>Wash basin</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 34 ->kitchen
+2: 23 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>7:3:53</start>
+  <volume>57</volume>
+  <samples>34,23</samples>
+  <knn>Butler</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 55 ->kitchen
+2: 26 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>7:5:42</start>
+  <volume>81</volume>
+  <samples>55,26</samples>
+  <knn>Butler</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 63 ->kitchen
+2: 66 ->kitchen
+3: 49 ->kitchen
+4: 2 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>7:9:20</start>
+  <volume>180</volume>
+  <samples>63,66,49,2</samples>
+  <knn>Butler</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 69 ->kitchen
+2: 69 ->kitchen
+3: 72 ->kitchen
+4: 69 ->kitchen
+5: 72 ->kitchen
+6: 72 ->kitchen
+7: 69 ->kitchen
+8: 72 ->kitchen
+Data from kitchen PIR
+9: 72 ->kitchen
+10: 72 ->kitchen
+Data from kitchen PIR
+11: 69 ->kitchen
+12: 14 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>7:10:19</start>
+  <volume>791</volume>
+  <samples>69,69,72,69,72,72,69,72,72,72,69,14</samples>
+  <knn>Butler</knn>
+  <svm>Sink</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from kitchen PIR
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 20 ->kitchen
+Data from kitchen PIR
+2: 23 ->kitchen
+3: 20 ->kitchen
+4: 23 ->kitchen
+5: 23 ->kitchen
+6: 20 ->kitchen
+7: 23 ->kitchen
+8: 20 ->kitchen
+9: 23 ->kitchen
+10: 23 ->kitchen
+11: 23 ->kitchen
+12: 20 ->kitchen
+13: 23 ->kitchen
+14: 20 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>7:11:36</start>
+  <volume>304</volume>
+  <samples>20,23,20,23,23,20,23,20,23,23,23,20,23,20</samples>
+  <knn>Butler</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 58 ->kitchen
+Data from kitchen PIR
+2: 60 ->kitchen
+3: 60 ->kitchen
+4: 60 ->kitchen
+Data from kitchen PIR
+5: 60 ->kitchen
+6: 104 ->kitchen
+7: 127 ->kitchen
+8: 124 ->kitchen
+9: 52 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>7:13:38</start>
+  <volume>705</volume>
+  <samples>58,60,60,60,60,104,127,124,52</samples>
+  <knn>Sink</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 78 ->kitchen
+2: 81 ->kitchen
+3: 69 ->kitchen
+Data from kitchen PIR
+4: 8 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>7:17:18</start>
+  <volume>236</volume>
+  <samples>78,81,69,8</samples>
+  <knn>Sink</knn>
+  <svm>Sink</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+1: 208 ->unk
+2: 205 ->unk
+3: 214 ->unk
+4: 243 ->unk
+5: 243 ->unk
+6: 246 ->unk
+7: 249 ->unk
+8: 252 ->unk
+Data from ensuite PIR
+9: 258 ->ensuite
+10: 266 ->ensuite
+11: 266 ->ensuite
+Data from ensuite PIR
+12: 266 ->ensuite
+13: 266 ->ensuite
+14: 263 ->ensuite
+15: 261 ->ensuite
+16: 263 ->ensuite
+17: 263 ->ensuite
+Data from ensuite PIR
+18: 261 ->ensuite
+19: 263 ->ensuite
+20: 263 ->ensuite
+21: 261 ->ensuite
+22: 261 ->ensuite
+23: 263 ->ensuite
+Data from ensuite PIR
+24: 263 ->ensuite
+25: 263 ->ensuite
+26: 263 ->ensuite
+27: 261 ->ensuite
+28: 263 ->ensuite
+29: 261 ->ensuite
+30: 263 ->ensuite
+31: 261 ->ensuite
+32: 261 ->ensuite
+33: 261 ->ensuite
+Data from ensuite PIR
+34: 261 ->ensuite
+35: 261 ->ensuite
+36: 258 ->ensuite
+37: 261 ->ensuite
+38: 261 ->ensuite
+39: 258 ->ensuite
+40: 261 ->ensuite
+41: 261 ->ensuite
+42: 261 ->ensuite
+43: 261 ->ensuite
+44: 261 ->ensuite
+45: 261 ->ensuite
+46: 261 ->ensuite
+47: 263 ->ensuite
+48: 261 ->ensuite
+49: 263 ->ensuite
+50: 261 ->ensuite
+51: 263 ->ensuite
+52: 263 ->ensuite
+53: 261 ->ensuite
+54: 263 ->ensuite
+55: 266 ->ensuite
+56: 263 ->ensuite
+57: 263 ->ensuite
+58: 263 ->ensuite
+59: 263 ->ensuite
+60: 263 ->ensuite
+61: 263 ->ensuite
+62: 263 ->ensuite
+63: 266 ->ensuite
+64: 266 ->ensuite
+65: 266 ->ensuite
+66: 263 ->ensuite
+67: 266 ->ensuite
+68: 266 ->ensuite
+Data from ensuite PIR
+69: 266 ->ensuite
+70: 263 ->ensuite
+71: 266 ->ensuite
+72: 266 ->ensuite
+73: 266 ->ensuite
+74: 266 ->ensuite
+75: 266 ->ensuite
+76: 263 ->ensuite
+77: 266 ->ensuite
+Data from ensuite PIR
+78: 263 ->ensuite
+79: 266 ->ensuite
+80: 263 ->ensuite
+81: 266 ->ensuite
+82: 266 ->ensuite
+83: 263 ->ensuite
+84: 266 ->ensuite
+85: 266 ->ensuite
+86: 263 ->ensuite
+87: 266 ->ensuite
+88: 266 ->ensuite
+89: 263 ->ensuite
+Data from ensuite PIR
+90: 266 ->ensuite
+91: 266 ->ensuite
+92: 263 ->ensuite
+93: 266 ->ensuite
+94: 263 ->ensuite
+95: 263 ->ensuite
+96: 266 ->ensuite
+97: 330 ->ensuite
+98: 336 ->ensuite
+Data from ensuite PIR
+99: 339 ->ensuite
+100: 339 ->ensuite
+101: 342 ->ensuite
+102: 336 ->ensuite
+103: 339 ->ensuite
+104: 336 ->ensuite
+105: 339 ->ensuite
+106: 339 ->ensuite
+107: 339 ->ensuite
+108: 336 ->ensuite
+Data from ensuite PIR
+109: 339 ->ensuite
+110: 339 ->ensuite
+111: 339 ->ensuite
+112: 339 ->ensuite
+113: 336 ->ensuite
+114: 339 ->ensuite
+115: 339 ->ensuite
+Data from ensuite PIR
+116: 339 ->ensuite
+117: 336 ->ensuite
+118: 339 ->ensuite
+Data from ensuite PIR
+119: 339 ->ensuite
+Data from ensuite PIR
+120: 339 ->ensuite
+121: 339 ->ensuite
+122: 339 ->ensuite
+123: 339 ->ensuite
+124: 333 ->ensuite
+125: 339 ->ensuite
+126: 333 ->ensuite
+127: 336 ->ensuite
+128: 336 ->ensuite
+129: 336 ->ensuite
+130: 333 ->ensuite
+131: 333 ->ensuite
+132: 336 ->ensuite
+133: 307 ->ensuite
+134: 263 ->ensuite
+135: 263 ->ensuite
+136: 266 ->ensuite
+Data from ensuite PIR
+137: 263 ->ensuite
+138: 263 ->ensuite
+139: 261 ->ensuite
+140: 266 ->ensuite
+141: 261 ->ensuite
+142: 263 ->ensuite
+143: 263 ->ensuite
+Data from ensuite PIR
+144: 263 ->ensuite
+145: 261 ->ensuite
+146: 261 ->ensuite
+147: 261 ->ensuite
+148: 263 ->ensuite
+149: 261 ->ensuite
+150: 261 ->ensuite
+Data from ensuite PIR
+151: 263 ->ensuite
+152: 261 ->ensuite
+153: 263 ->ensuite
+154: 263 ->ensuite
+155: 261 ->ensuite
+156: 261 ->ensuite
+157: 266 ->ensuite
+158: 263 ->ensuite
+Data from ensuite PIR
+159: 261 ->ensuite
+160: 266 ->ensuite
+161: 261 ->ensuite
+162: 266 ->ensuite
+163: 263 ->ensuite
+164: 266 ->ensuite
+165: 266 ->ensuite
+166: 263 ->ensuite
+167: 266 ->ensuite
+168: 263 ->ensuite
+169: 266 ->ensuite
+170: 263 ->ensuite
+171: 266 ->ensuite
+172: 266 ->ensuite
+173: 266 ->ensuite
+174: 266 ->ensuite
+Data from ensuite PIR
+175: 266 ->ensuite
+176: 266 ->ensuite
+177: 266 ->ensuite
+178: 266 ->ensuite
+179: 266 ->ensuite
+180: 266 ->ensuite
+181: 266 ->ensuite
+182: 266 ->ensuite
+183: 266 ->ensuite
+184: 266 ->ensuite
+185: 269 ->ensuite
+186: 266 ->ensuite
+187: 266 ->ensuite
+188: 269 ->ensuite
+189: 266 ->ensuite
+190: 269 ->ensuite
+191: 266 ->ensuite
+192: 269 ->ensuite
+193: 266 ->ensuite
+194: 269 ->ensuite
+195: 266 ->ensuite
+196: 266 ->ensuite
+197: 266 ->ensuite
+198: 266 ->ensuite
+199: 269 ->ensuite
+200: 266 ->ensuite
+201: 266 ->ensuite
+202: 266 ->ensuite
+203: 266 ->ensuite
+204: 263 ->ensuite
+205: 266 ->ensuite
+206: 266 ->ensuite
+207: 266 ->ensuite
+208: 263 ->ensuite
+209: 263 ->ensuite
+210: 266 ->ensuite
+211: 263 ->ensuite
+212: 263 ->ensuite
+213: 266 ->ensuite
+214: 263 ->ensuite
+Data from ensuite PIR
+215: 261 ->ensuite
+216: 263 ->ensuite
+217: 263 ->ensuite
+218: 263 ->ensuite
+219: 261 ->ensuite
+220: 263 ->ensuite
+221: 261 ->ensuite
+222: 263 ->ensuite
+223: 261 ->ensuite
+224: 261 ->ensuite
+225: 263 ->ensuite
+226: 261 ->ensuite
+227: 261 ->ensuite
+228: 261 ->ensuite
+229: 263 ->ensuite
+230: 263 ->ensuite
+231: 263 ->ensuite
+232: 261 ->ensuite
+Data from ensuite PIR
+233: 261 ->ensuite
+234: 263 ->ensuite
+Data from ensuite PIR
+235: 263 ->ensuite
+Data from ensuite PIR
+236: 261 ->ensuite
+237: 263 ->ensuite
+238: 261 ->ensuite
+239: 261 ->ensuite
+240: 263 ->ensuite
+Data from ensuite PIR
+241: 258 ->ensuite
+242: 263 ->ensuite
+243: 261 ->ensuite
+244: 263 ->ensuite
+Data from ensuite PIR
+245: 263 ->ensuite
+246: 261 ->ensuite
+247: 263 ->ensuite
+248: 263 ->ensuite
+249: 263 ->ensuite
+250: 263 ->ensuite
+251: 266 ->ensuite
+Data from ensuite PIR
+252: 261 ->ensuite
+253: 263 ->ensuite
+254: 266 ->ensuite
+Data from ensuite PIR
+255: 261 ->ensuite
+Data from ensuite PIR
+256: 266 ->ensuite
+Data from ensuite PIR
+257: 261 ->ensuite
+258: 263 ->ensuite
+259: 266 ->ensuite
+260: 263 ->ensuite
+261: 263 ->ensuite
+262: 263 ->ensuite
+263: 263 ->ensuite
+Data from ensuite PIR
+264: 266 ->ensuite
+265: 263 ->ensuite
+266: 266 ->ensuite
+267: 263 ->ensuite
+268: 266 ->ensuite
+269: 263 ->ensuite
+270: 266 ->ensuite
+Data from ensuite PIR
+271: 263 ->ensuite
+272: 261 ->ensuite
+273: 263 ->ensuite
+274: 263 ->ensuite
+275: 261 ->ensuite
+276: 263 ->ensuite
+277: 261 ->ensuite
+278: 261 ->ensuite
+279: 263 ->ensuite
+280: 263 ->ensuite
+281: 263 ->ensuite
+282: 258 ->ensuite
+283: 261 ->ensuite
+284: 263 ->ensuite
+285: 261 ->ensuite
+286: 263 ->ensuite
+287: 261 ->ensuite
+288: 261 ->ensuite
+289: 261 ->ensuite
+290: 261 ->ensuite
+291: 263 ->ensuite
+292: 261 ->ensuite
+293: 261 ->ensuite
+294: 261 ->ensuite
+295: 263 ->ensuite
+Data from ensuite PIR
+296: 261 ->ensuite
+297: 263 ->ensuite
+298: 261 ->ensuite
+299: 263 ->ensuite
+300: 263 ->ensuite
+301: 261 ->ensuite
+302: 261 ->ensuite
+303: 261 ->ensuite
+304: 261 ->ensuite
+305: 261 ->ensuite
+306: 261 ->ensuite
+307: 261 ->ensuite
+308: 261 ->ensuite
+309: 261 ->ensuite
+310: 261 ->ensuite
+311: 261 ->ensuite
+312: 261 ->ensuite
+313: 261 ->ensuite
+314: 261 ->ensuite
+Data from ensuite PIR
+315: 263 ->ensuite
+316: 261 ->ensuite
+Data from ensuite PIR
+317: 261 ->ensuite
+318: 263 ->ensuite
+319: 263 ->ensuite
+320: 263 ->ensuite
+321: 261 ->ensuite
+Data from ensuite PIR
+322: 263 ->ensuite
+323: 261 ->ensuite
+324: 261 ->ensuite
+325: 263 ->ensuite
+Data from ensuite PIR
+326: 263 ->ensuite
+Data from ensuite PIR
+327: 261 ->ensuite
+328: 263 ->ensuite
+329: 263 ->ensuite
+330: 263 ->ensuite
+331: 261 ->ensuite
+332: 263 ->ensuite
+333: 261 ->ensuite
+334: 263 ->ensuite
+335: 263 ->ensuite
+336: 263 ->ensuite
+337: 263 ->ensuite
+Data from ensuite PIR
+338: 261 ->ensuite
+339: 263 ->ensuite
+340: 263 ->ensuite
+341: 261 ->ensuite
+342: 263 ->ensuite
+343: 263 ->ensuite
+344: 263 ->ensuite
+Data from ensuite PIR
+345: 263 ->ensuite
+346: 263 ->ensuite
+347: 266 ->ensuite
+348: 263 ->ensuite
+349: 263 ->ensuite
+350: 263 ->ensuite
+351: 263 ->ensuite
+352: 263 ->ensuite
+353: 263 ->ensuite
+Data from ensuite PIR
+354: 263 ->ensuite
+355: 261 ->ensuite
+356: 263 ->ensuite
+357: 261 ->ensuite
+358: 261 ->ensuite
+359: 263 ->ensuite
+360: 261 ->ensuite
+361: 263 ->ensuite
+362: 263 ->ensuite
+363: 263 ->ensuite
+364: 263 ->ensuite
+365: 261 ->ensuite
+Data from ensuite PIR
+366: 263 ->ensuite
+367: 261 ->ensuite
+368: 263 ->ensuite
+369: 261 ->ensuite
+370: 263 ->ensuite
+371: 258 ->ensuite
+372: 263 ->ensuite
+373: 261 ->ensuite
+374: 261 ->ensuite
+375: 258 ->ensuite
+Data from ensuite PIR
+376: 261 ->ensuite
+Data from ensuite PIR
+377: 261 ->ensuite
+378: 261 ->ensuite
+379: 261 ->ensuite
+380: 261 ->ensuite
+381: 261 ->ensuite
+382: 258 ->ensuite
+383: 261 ->ensuite
+384: 258 ->ensuite
+385: 255 ->ensuite
+386: 258 ->ensuite
+387: 258 ->ensuite
+388: 258 ->ensuite
+389: 258 ->ensuite
+390: 258 ->ensuite
+391: 258 ->ensuite
+392: 261 ->ensuite
+Data from ensuite PIR
+393: 255 ->ensuite
+394: 258 ->ensuite
+395: 258 ->ensuite
+396: 255 ->ensuite
+397: 261 ->ensuite
+398: 258 ->ensuite
+399: 255 ->ensuite
+400: 258 ->ensuite
+401: 258 ->ensuite
+402: 258 ->ensuite
+403: 258 ->ensuite
+404: 255 ->ensuite
+405: 255 ->ensuite
+Data from ensuite PIR
+406: 258 ->ensuite
+407: 261 ->ensuite
+408: 255 ->ensuite
+409: 261 ->ensuite
+410: 255 ->ensuite
+411: 258 ->ensuite
+412: 261 ->ensuite
+413: 258 ->ensuite
+414: 258 ->ensuite
+415: 258 ->ensuite
+416: 258 ->ensuite
+417: 261 ->ensuite
+418: 258 ->ensuite
+419: 258 ->ensuite
+420: 261 ->ensuite
+421: 258 ->ensuite
+422: 261 ->ensuite
+423: 258 ->ensuite
+424: 258 ->ensuite
+425: 261 ->ensuite
+426: 261 ->ensuite
+427: 261 ->ensuite
+428: 261 ->ensuite
+429: 261 ->ensuite
+430: 261 ->ensuite
+431: 261 ->ensuite
+432: 261 ->ensuite
+Data from ensuite PIR
+433: 261 ->ensuite
+434: 261 ->ensuite
+435: 258 ->ensuite
+436: 261 ->ensuite
+Data from ensuite PIR
+437: 261 ->ensuite
+438: 258 ->ensuite
+439: 261 ->ensuite
+440: 258 ->ensuite
+441: 261 ->ensuite
+442: 261 ->ensuite
+443: 261 ->ensuite
+444: 258 ->ensuite
+445: 258 ->ensuite
+446: 261 ->ensuite
+447: 261 ->ensuite
+448: 258 ->ensuite
+449: 258 ->ensuite
+450: 258 ->ensuite
+451: 258 ->ensuite
+452: 255 ->ensuite
+453: 258 ->ensuite
+454: 255 ->ensuite
+Data from ensuite PIR
+455: 255 ->ensuite
+456: 258 ->ensuite
+457: 255 ->ensuite
+458: 258 ->ensuite
+459: 258 ->ensuite
+460: 255 ->ensuite
+461: 258 ->ensuite
+462: 255 ->ensuite
+463: 258 ->ensuite
+464: 252 ->ensuite
+Data from ensuite PIR
+465: 258 ->ensuite
+466: 255 ->ensuite
+467: 255 ->ensuite
+468: 255 ->ensuite
+469: 252 ->ensuite
+470: 255 ->ensuite
+471: 252 ->ensuite
+472: 255 ->ensuite
+473: 252 ->ensuite
+474: 252 ->ensuite
+Data from ensuite PIR
+475: 255 ->ensuite
+476: 252 ->ensuite
+477: 258 ->ensuite
+478: 252 ->ensuite
+479: 255 ->ensuite
+480: 255 ->ensuite
+481: 255 ->ensuite
+482: 255 ->ensuite
+483: 255 ->ensuite
+484: 255 ->ensuite
+485: 255 ->ensuite
+486: 255 ->ensuite
+487: 255 ->ensuite
+Data from ensuite PIR
+488: 255 ->ensuite
+489: 258 ->ensuite
+490: 255 ->ensuite
+491: 258 ->ensuite
+Data from ensuite PIR
+492: 258 ->ensuite
+493: 258 ->ensuite
+494: 255 ->ensuite
+495: 258 ->ensuite
+496: 258 ->ensuite
+Data from ensuite PIR
+497: 261 ->ensuite
+498: 258 ->ensuite
+499: 258 ->ensuite
+500: 258 ->ensuite
+501: 261 ->ensuite
+502: 258 ->ensuite
+503: 261 ->ensuite
+504: 261 ->ensuite
+505: 261 ->ensuite
+506: 258 ->ensuite
+507: 261 ->ensuite
+508: 261 ->ensuite
+Data from ensuite PIR
+509: 261 ->ensuite
+510: 261 ->ensuite
+511: 261 ->ensuite
+512: 258 ->ensuite
+513: 261 ->ensuite
+514: 263 ->ensuite
+515: 261 ->ensuite
+516: 261 ->ensuite
+517: 263 ->ensuite
+Data from ensuite PIR
+518: 261 ->ensuite
+519: 234 ->ensuite
+Data from ensuite PIR
+520: 26 ->ensuite
+<event>
+  <location>ensuite</location>
+  <start>7:57:7</start>
+  <volume>138301</volume>
+  <samples>208,205,214,243,243,246,249,252,258,266,266,266,266,263,261,263,263,261,263,263,261,261,263,263,263,263,261,263,261,263,261,261,261,261,261,258,261,261,258,261,261,261,261,261,261,261,263,261,263,261,263,263,261,263,266,263,263,263,263,263,263,263,266,266,266,263,266,266,266,263,266,266,266,266,266,263,266,263,266,263,266,266,263,266,266,263,266,266,263,266,266,263,266,263,263,266,330,336,339,339,342,336,339,336,339,339,339,336,339,339,339,339,336,339,339,339,336,339,339,339,339,339,339,333,339,333,336,336,336,333,333,336,307,263,263,266,263,263,261,266,261,263,263,263,261,261,261,263,261,261,263,261,263,263,261,261,266,263,261,266,261,266,263,266,266,263,266,263,266,263,266,266,266,266,266,266,266,266,266,266,266,266,266,266,269,266,266,269,266,269,266,269,266,269,266,266,266,266,269,266,266,266,266,263,266,266,266,263,263,266,263,263,266,263,261,263,263,263,261,263,261,263,261,261,263,261,261,261,263,263,263,261,261,263,263,261,263,261,261,263,258,263,261,263,263,261,263,263,263,263,266,261,263,266,261,266,261,263,266,263,263,263,263,266,263,266,263,266,263,266,263,261,263,263,261,263,261,261,263,263,263,258,261,263,261,263,261,261,261,261,263,261,261,261,263,261,263,261,263,263,261,261,261,261,261,261,261,261,261,261,261,261,261,261,263,261,261,263,263,263,261,263,261,261,263,263,261,263,263,263,261,263,261,263,263,263,263,261,263,263,261,263,263,263,263,263,266,263,263,263,263,263,263,263,261,263,261,261,263,261,263,263,263,263,261,263,261,263,261,263,258,263,261,261,258,261,261,261,261,261,261,258,261,258,255,258,258,258,258,258,258,261,255,258,258,255,261,258,255,258,258,258,258,255,255,258,261,255,261,255,258,261,258,258,258,258,261,258,258,261,258,261,258,258,261,261,261,261,261,261,261,261,261,261,258,261,261,258,261,258,261,261,261,258,258,261,261,258,258,258,258,255,258,255,255,258,255,258,258,255,258,255,258,252,258,255,255,255,252,255,252,255,252,252,255,252,258,252,255,255,255,255,255,255,255,255,255,255,258,255,258,258,258,255,258,258,261,258,258,258,261,258,261,261,261,258,261,261,261,261,261,258,261,263,261,261,263,261,234,26</samples>
+  <knn>Shower + Toilet</knn>
+  <svm>Shower + Toilet</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+1: 118 ->ensuite
+2: 130 ->ensuite
+3: 40 ->unk
+Unknown source for data=[118, 130, 40]
+
+Data not logged - only logging data for..
+[]
+
+
+Data from ensuite PIR
+1: 130 ->ensuite
+2: 17 ->ensuite
+<event>
+  <location>ensuite</location>
+  <start>7:58:50</start>
+  <volume>147</volume>
+  <samples>130,17</samples>
+  <knn>Wash basin</knn>
+  <svm>Wash basin</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+1: 142 ->ensuite
+2: 142 ->ensuite
+3: 142 ->ensuite
+4: 89 ->ensuite
+5: 5 ->ensuite
+<event>
+  <location>ensuite</location>
+  <start>7:59:22</start>
+  <volume>520</volume>
+  <samples>142,142,142,89,5</samples>
+  <knn>Wash basin</knn>
+  <svm>Wash basin</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from ensuite PIR
+Data from ensuite PIR
+1: 176 ->ensuite
+2: 179 ->ensuite
+3: 179 ->ensuite
+4: 60 ->ensuite
+<event>
+  <location>ensuite</location>
+  <start>7:59:35</start>
+  <volume>594</volume>
+  <samples>176,179,179,60</samples>
+  <knn>Wash basin</knn>
+  <svm>Wash basin</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+1: 130 ->ensuite
+2: 58 ->ensuite
+3: 2 ->ensuite
+<event>
+  <location>ensuite</location>
+  <start>7:59:55</start>
+  <volume>190</volume>
+  <samples>130,58,2</samples>
+  <knn>Wash basin</knn>
+  <svm>Wash basin</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+1: 133 ->ensuite
+2: 34 ->ensuite
+<event>
+  <location>ensuite</location>
+  <start>8:0:8</start>
+  <volume>167</volume>
+  <samples>133,34</samples>
+  <knn>Wash basin</knn>
+  <svm>Wash basin</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from ensuite PIR
+Data from ensuite PIR
+1: 176 ->ensuite
+2: 118 ->ensuite
+3: 8 ->ensuite
+<event>
+  <location>ensuite</location>
+  <start>8:0:53</start>
+  <volume>302</volume>
+  <samples>176,118,8</samples>
+  <knn>Wash basin</knn>
+  <svm>Wash basin</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 127 ->kitchen
+2: 127 ->kitchen
+Data from kitchen PIR
+3: 92 ->kitchen
+4: 8 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>8:25:25</start>
+  <volume>354</volume>
+  <samples>127,127,92,8</samples>
+  <knn>Sink</knn>
+  <svm>Sink</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 118 ->kitchen
+2: 118 ->kitchen
+3: 118 ->kitchen
+4: 118 ->kitchen
+5: 116 ->kitchen
+6: 118 ->kitchen
+7: 118 ->kitchen
+8: 118 ->kitchen
+9: 118 ->kitchen
+10: 118 ->kitchen
+11: 118 ->kitchen
+12: 121 ->kitchen
+13: 118 ->kitchen
+14: 121 ->kitchen
+15: 121 ->kitchen
+16: 121 ->kitchen
+17: 121 ->kitchen
+18: 121 ->kitchen
+Data from kitchen PIR
+19: 121 ->kitchen
+20: 121 ->kitchen
+21: 121 ->kitchen
+22: 124 ->kitchen
+23: 121 ->kitchen
+24: 124 ->kitchen
+25: 121 ->kitchen
+26: 124 ->kitchen
+27: 124 ->kitchen
+28: 124 ->kitchen
+29: 121 ->kitchen
+30: 124 ->kitchen
+31: 124 ->kitchen
+32: 124 ->kitchen
+33: 127 ->kitchen
+34: 124 ->kitchen
+35: 124 ->kitchen
+36: 124 ->kitchen
+37: 124 ->kitchen
+38: 124 ->kitchen
+39: 124 ->kitchen
+Data from kitchen PIR
+40: 127 ->kitchen
+41: 124 ->kitchen
+42: 124 ->kitchen
+43: 124 ->kitchen
+44: 124 ->kitchen
+45: 124 ->kitchen
+46: 124 ->kitchen
+47: 124 ->kitchen
+Data from kitchen PIR
+48: 121 ->kitchen
+49: 124 ->kitchen
+50: 127 ->kitchen
+51: 124 ->kitchen
+52: 124 ->kitchen
+53: 124 ->kitchen
+54: 121 ->kitchen
+55: 124 ->kitchen
+56: 124 ->kitchen
+57: 124 ->kitchen
+58: 124 ->kitchen
+59: 124 ->kitchen
+60: 124 ->kitchen
+61: 37 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>8:27:13</start>
+  <volume>7370</volume>
+  <samples>118,118,118,118,116,118,118,118,118,118,118,121,118,121,121,121,121,121,121,121,121,124,121,124,121,124,124,124,121,124,124,124,127,124,124,124,124,124,124,127,124,124,124,124,124,124,124,121,124,127,124,124,124,121,124,124,124,124,124,124,37</samples>
+  <knn>Sink</knn>
+  <svm>Sink</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Data from kitchen PIR
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 43 ->kitchen
+2: 2 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>8:49:53</start>
+  <volume>45</volume>
+  <samples>43,2</samples>
+  <knn>Butler</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from kitchen PIR
+1: 58 ->kitchen
+2: 11 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>8:50:5</start>
+  <volume>69</volume>
+  <samples>58,11</samples>
+  <knn>Butler</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+1: 156 ->kitchen
+2: 156 ->kitchen
+3: 156 ->kitchen
+4: 159 ->kitchen
+5: 66 ->kitchen
+6: 2 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>8:50:17</start>
+  <volume>695</volume>
+  <samples>156,156,156,159,66,2</samples>
+  <knn>Sink</knn>
+  <svm>Sink</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from kitchen PIR
+1: 136 ->kitchen
+Data from kitchen PIR
+2: 136 ->kitchen
+3: 136 ->kitchen
+4: 136 ->kitchen
+5: 136 ->kitchen
+6: 92 ->kitchen
+7: 5 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>8:50:36</start>
+  <volume>777</volume>
+  <samples>136,136,136,136,136,92,5</samples>
+  <knn>Sink</knn>
+  <svm>Sink</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+1: 69 ->kitchen
+2: 66 ->kitchen
+3: 69 ->kitchen
+4: 69 ->kitchen
+Data from kitchen PIR
+5: 69 ->kitchen
+6: 66 ->kitchen
+7: 69 ->kitchen
+8: 69 ->kitchen
+9: 72 ->kitchen
+10: 69 ->kitchen
+11: 69 ->kitchen
+Data from kitchen PIR
+12: 66 ->kitchen
+13: 58 ->kitchen
+14: 5 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>9:53:50</start>
+  <volume>885</volume>
+  <samples>69,66,69,69,69,66,69,69,72,69,69,66,58,5</samples>
+  <knn>Butler</knn>
+  <svm>Sink</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+1: 118 ->unk
+Data from ensuite PIR
+2: 118 ->ensuite
+3: 121 ->ensuite
+4: 118 ->ensuite
+5: 118 ->ensuite
+6: 124 ->ensuite
+7: 121 ->ensuite
+8: 121 ->ensuite
+9: 121 ->ensuite
+10: 121 ->ensuite
+11: 121 ->ensuite
+12: 121 ->ensuite
+13: 121 ->ensuite
+14: 121 ->ensuite
+15: 118 ->ensuite
+16: 121 ->ensuite
+17: 118 ->ensuite
+18: 121 ->ensuite
+19: 121 ->ensuite
+20: 118 ->ensuite
+21: 118 ->ensuite
+22: 118 ->ensuite
+23: 98 ->ensuite
+24: 8 ->ensuite
+<event>
+  <location>ensuite</location>
+  <start>10:0:22</start>
+  <volume>2744</volume>
+  <samples>118,118,121,118,118,124,121,121,121,121,121,121,121,121,118,121,118,121,121,118,118,118,98,8</samples>
+  <knn>Toilet</knn>
+  <svm>Wash basin</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+Data from ensuite PIR
+1: 118 ->ensuite
+2: 118 ->ensuite
+Data from ensuite PIR
+3: 118 ->ensuite
+4: 118 ->ensuite
+5: 118 ->ensuite
+6: 118 ->ensuite
+Data from ensuite PIR
+7: 118 ->ensuite
+8: 121 ->ensuite
+9: 121 ->ensuite
+10: 118 ->ensuite
+11: 118 ->ensuite
+12: 116 ->ensuite
+13: 118 ->ensuite
+14: 118 ->ensuite
+15: 118 ->ensuite
+Data from ensuite PIR
+16: 116 ->ensuite
+17: 121 ->ensuite
+18: 118 ->ensuite
+19: 116 ->ensuite
+20: 118 ->ensuite
+21: 139 ->ensuite
+Data from ensuite PIR
+22: 246 ->ensuite
+23: 252 ->ensuite
+24: 252 ->ensuite
+25: 252 ->ensuite
+26: 255 ->ensuite
+27: 150 ->ensuite
+28: 121 ->ensuite
+29: 121 ->ensuite
+30: 75 ->ensuite
+31: 2 ->ensuite
+<event>
+  <location>ensuite</location>
+  <start>10:4:45</start>
+  <volume>4228</volume>
+  <samples>118,118,118,118,118,118,118,121,121,118,118,116,118,118,118,116,121,118,116,118,139,246,252,252,252,255,150,121,121,75,2</samples>
+  <knn>Toilet + Wash basin</knn>
+  <svm>Toilet + Wash basin</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from kitchen PIR
+1: 118 ->kitchen
+2: 121 ->kitchen
+3: 121 ->kitchen
+4: 124 ->kitchen
+5: 121 ->kitchen
+Data from kitchen PIR
+6: 31 ->kitchen
+7: 2 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>10:25:30</start>
+  <volume>638</volume>
+  <samples>118,121,121,124,121,31,2</samples>
+  <knn>Sink</knn>
+  <svm>Sink</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+1: 20 ->kitchen
+2: 23 ->kitchen
+3: 23 ->kitchen
+4: 23 ->kitchen
+5: 23 ->kitchen
+6: 23 ->kitchen
+7: 23 ->kitchen
+8: 23 ->kitchen
+9: 17 ->kitchen
+Data from kitchen PIR
+<event>
+  <location>kitchen</location>
+  <start>10:25:57</start>
+  <volume>198</volume>
+  <samples>20,23,23,23,23,23,23,23,17</samples>
+  <knn>Butler</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from kitchen PIR
+1: 20 ->kitchen
+2: 23 ->kitchen
+3: 23 ->kitchen
+4: 23 ->kitchen
+5: 23 ->kitchen
+6: 23 ->kitchen
+Data from kitchen PIR
+7: 5 ->kitchen
+<event>
+  <location>kitchen</location>
+  <start>10:26:7</start>
+  <volume>140</volume>
+  <samples>20,23,23,23,23,23,5</samples>
+  <knn>Butler</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from kitchen PIR
+1: 20 ->kitchen
+Data from kitchen PIR
+<event>
+  <location>kitchen</location>
+  <start>10:26:14</start>
+  <volume>20</volume>
+  <samples>20</samples>
+  <knn>Butler</knn>
+  <svm>Butler</svm>
+  <truth>unk</truth>
+</event>
+
+new event appended on 8/4/2013 writing to file..
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Data from kitchen PIR
+Unknown source for data=[]
+
+Data not logged - only logging data for..
+[]
+
+
+Data from kitchen PIR
+Unknown source for data=[]
+
+Data not 

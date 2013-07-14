@@ -1,0 +1,11 @@
+<events>
+  <event>
+    <location>unk</location>
+    <start>19:24:31</start>
+    <volume>46</volume>
+    <samples>46</samples>
+    <knn>unk</knn>
+    <svm>unk</svm>
+    <truth>Toilet + Wash basin(ensuite)</truth>
+  </event>
+</events>

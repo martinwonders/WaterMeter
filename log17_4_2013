@@ -1,0 +1,11 @@
+<events>
+  <event>
+    <location>unk</location>
+    <start>19:33:16</start>
+    <volume>3792</volume>
+    <samples>55,52,63,113,113,113,113,113,113,113,113,113,116,113,110,113,113,113,116,110,118,113,113,116,113,116,113,113,113,118,113,113,116,116,89,8</samples>
+    <knn>unk</knn>
+    <svm>unk</svm>
+    <truth>Sink(kitchen)</truth>
+  </event>
+</events>

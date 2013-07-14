@@ -1,0 +1,18 @@
+<events>
+  <event>
+    <start>17:8:27</start>
+    <volume>276</volume>
+    <samples>182,92,2</samples>
+    <knn>Wash basin</knn>
+    <svm>Wash basin</svm>
+    <truth>Wash basin</truth>
+  </event>
+  <event>
+    <start>17:9:34</start>
+    <volume>2873</volume>
+    <samples>113,118,116,118,116,118,118,118,118,121,116,118,118,116,118,118,116,118,118,118,118,118,116,118,55</samples>
+    <knn>Wash basin</knn>
+    <svm>Toilet</svm>
+    <truth>Toilet</truth>
+  </event>
+</events>

@@ -1,0 +1,11 @@
+<events>
+  <event>
+    <location>ensuite</location>
+    <start>23:57:52</start>
+    <volume>320</volume>
+    <samples>87,98,98,37</samples>
+    <knn>Wash basin</knn>
+    <svm>Wash basin</svm>
+    <truth>Wash basin(ensuite)</truth>
+  </event>
+</events>

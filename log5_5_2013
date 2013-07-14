@@ -1,0 +1,11 @@
+<events>
+  <event>
+    <location>unk</location>
+    <start>9:47:2</start>
+    <volume>5208</volume>
+    <samples>133,130,133,130,130,133,133,133,130,133,130,133,136,133,136,133,130,130,130,127,130,127,130,127,130,127,130,127,130,127,127,127,127,127,127,124,127,127,127,127,20</samples>
+    <knn>unk</knn>
+    <svm>unk</svm>
+    <truth>Butler(kitchen)</truth>
+  </event>
+</events>

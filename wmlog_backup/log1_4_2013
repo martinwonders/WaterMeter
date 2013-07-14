@@ -1,0 +1,92 @@
+<events>
+  <event>
+    <location>ensuite</location>
+    <start>0:6:48</start>
+    <volume>212</volume>
+    <samples>72,72,60,8</samples>
+    <knn>Wash basin</knn>
+    <svm>Wash basin</svm>
+    <truth>Wash basin(ensuite)</truth>
+  </event>
+  <event>
+    <location>ensuite</location>
+    <start>11:2:17</start>
+    <volume>623</volume>
+    <samples>179,176,182,81,5</samples>
+    <knn>Wash basin</knn>
+    <svm>Wash basin</svm>
+    <truth>Wash basin(ensuite)</truth>
+  </event>
+  <event>
+    <location>ensuite</location>
+    <start>11:3:14</start>
+    <volume>3754</volume>
+    <samples>116,121,121,121,188,263,266,266,269,171,124,127,127,124,127,127,127,127,127,127,127,127,124,124,81,5</samples>
+    <knn>Toilet + Wash basin</knn>
+    <svm>Toilet + Wash basin</svm>
+    <truth>Toilet + Wash basin(ensuite)</truth>
+  </event>
+  <event>
+    <location>ensuite</location>
+    <start>11:3:27</start>
+    <volume>115</volume>
+    <samples>49,52,14</samples>
+    <knn>Wash basin</knn>
+    <svm>Wash basin</svm>
+    <truth>Wash basin(ensuite)</truth>
+  </event>
+  <event>
+    <location>kitchen</location>
+    <start>11:7:33</start>
+    <volume>230</volume>
+    <samples>34,37,37,34,37,37,14</samples>
+    <knn>Butler</knn>
+    <svm>Butler</svm>
+    <truth>Butler</truth>
+  </event>
+  <event>
+    <location>ensuite</location>
+    <start>11:23:27</start>
+    <volume>167</volume>
+    <samples>147,20</samples>
+    <knn>Wash basin</knn>
+    <svm>Wash basin</svm>
+    <truth>Wash basin(ensuite)</truth>
+  </event>
+  <event>
+    <location>kitchen</location>
+    <start>11:24:11</start>
+    <volume>474</volume>
+    <samples>174,171,124,5</samples>
+    <knn>Sink</knn>
+    <svm>Sink</svm>
+    <truth>Sink(kitchen)</truth>
+  </event>
+  <event>
+    <location>kitchen</location>
+    <start>11:24:43</start>
+    <volume>120</volume>
+    <samples>23,23,23,23,20,8</samples>
+    <knn>Butler</knn>
+    <svm>Butler</svm>
+    <truth>Butler</truth>
+  </event>
+  <event>
+    <location>kitchen</location>
+    <start>11:27:23</start>
+    <volume>40</volume>
+    <samples>20,20</samples>
+    <knn>Butler</knn>
+    <svm>Butler</svm>
+    <truth>Butler</truth>
+  </event>
+  <event>
+    <location>kitchen</location>
+    <start>11:28:8</start>
+    <volume>8</volume>
+    <samples>8</samples>
+    <knn>Butler</knn>
+    <svm>Butler</svm>
+    <truth>Butler</truth>
+  </event>
+</events>

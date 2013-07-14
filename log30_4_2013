@@ -1,0 +1,29 @@
+<events>
+  <event>
+    <location>unk</location>
+    <start>9:37:36</start>
+    <volume>103</volume>
+    <samples>95,8</samples>
+    <knn>unk</knn>
+    <svm>unk</svm>
+    <truth>Toilet(ensuite)</truth>
+  </event>
+  <event>
+    <location>unk</location>
+    <start>16:18:48</start>
+    <volume>2563</volume>
+    <samples>104,107,107,110,110,113,110,110,113,113,113,113,116,113,116,113,116,113,116,116,113,113,87,8</samples>
+    <knn>unk</knn>
+    <svm>unk</svm>
+    <truth>Toilet(ensuite)</truth>
+  </event>
+  <event>
+    <location>unk</location>
+    <start>20:2:48</start>
+    <volume>6501</volume>
+    <samples>127,124,121,127,124,124,124,124,121,124,124,124,124,127,124,124,127,124,127,124,124,121,124,124,124,124,127,127,124,127,127,127,124,127,130,124,127,101,116,156,156,159,156,156,156,156,156,156,156,98,2</samples>
+    <knn>unk</knn>
+    <svm>unk</svm>
+    <truth>Toilet(ensuite)</truth>
+  </event>
+</events>
